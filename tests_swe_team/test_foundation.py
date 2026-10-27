@@ -2,8 +2,8 @@ import json
 
 import pytest
 
-from swe_team.agents import Budget, BudgetExceeded
-from swe_team.baseline import run_baseline
+from swe_team.agents import Budget
+from swe_team.coordinator import Coordinator
 from swe_team.llm import FakeClient
 from swe_team.tools import Workspace
 
@@ -16,15 +16,15 @@ GOOD = {"rationale": "fix", "files": [
 
 def test_baseline_revises_until_real_tests_pass():
     llm = FakeClient(["not json at all", json.dumps(BAD), json.dumps(GOOD)])
-    res = run_baseline("add numbers", llm)  # greenfield; first reply invalid -> schema retry
+    res = Coordinator(llm, "baseline").run("add numbers")  # greenfield; first reply invalid -> schema retry
     assert res.report.ok and res.revisions == 1 and res.budget.calls == 3
     res.workspace.cleanup()
 
 
 def test_budget_limit_enforced():
     llm = FakeClient([json.dumps(BAD)] * 5)
-    with pytest.raises(BudgetExceeded):
-        run_baseline("add numbers", llm, budget=Budget(max_calls=1))
+    res = Coordinator(llm, "baseline", budget=Budget(max_calls=1)).run("add numbers")
+    assert res.error.startswith("budget exceeded")
 
 
 def test_workspace_blocks_escape_and_preserves_original(tmp_path):
