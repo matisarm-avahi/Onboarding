@@ -2,12 +2,10 @@
 HIDDEN acceptance tests (never shown to the agents), so correctness is independent of agent-written tests."""
 from __future__ import annotations
 
-import time
 from dataclasses import dataclass
 from pathlib import Path
 
 from .agents import Budget
-from .baseline import run_baseline
 from .coordinator import Coordinator
 from .llm import LLMClient
 
@@ -72,36 +70,24 @@ CONFIGS = ("baseline", "fixed", "routed")
 def run_one(config: str, task: BenchTask, llm: LLMClient, max_revisions: int = 2,
             budget_kwargs: dict | None = None) -> dict:
     budget = Budget(**(budget_kwargs or {}))
-    t0 = time.perf_counter()
-    if config == "baseline":
-        try:
-            res = run_baseline(task.prompt, llm, task.repo, max_revisions, budget)
-            steps, err = ["solo"], None
-        except Exception as e:
-            res, steps, err = None, ["solo"], f"{type(e).__name__}: {e}"
-    else:
-        res = Coordinator(llm, config, max_revisions, budget).run(task.prompt, task.repo)
-        steps, err = res.steps, res.error
-    wall = time.perf_counter() - t0
-    if err and ("ExpiredToken" in err or "UnrecognizedClient" in err or "NoCredentials" in err):
+    res = Coordinator(llm, config, max_revisions, budget).run(task.prompt, task.repo)
+    err = res.error
+    if err and any(k in err for k in ("ExpiredToken", "UnrecognizedClient", "NoCredentials")):
         raise RuntimeError(f"AWS credentials problem, aborting benchmark (not a task failure): {err}")
 
     hidden_ok, hp, ht = False, 0, 0
-    if res is not None and err is None:
+    if not err:
         res.workspace.write_file("hidden_acceptance_test.py", task.hidden_test)
         rep = res.workspace.run_tests("hidden_acceptance_test.py", fail_fast=False)
-        hp, ht = rep.passed, rep.passed + rep.failed + rep.errors
-        hidden_ok = rep.ok
-    review = getattr(res, "review", None)
+        hp, ht, hidden_ok = rep.passed, rep.passed + rep.failed + rep.errors, rep.ok
     row = dict(task=task.name, config=config, hidden_pass=hidden_ok, hidden_passed=hp, hidden_total=ht,
-               own_tests_pass=bool(res and res.report and res.report.ok),
-               calls=budget.calls, input_tokens=budget.input_tokens, output_tokens=budget.output_tokens,
-               cost_usd=round(budget.cost_usd, 4), wall_s=round(wall, 1),
-               revisions=res.revisions if res else 0, steps="+".join(steps),
-               review_findings=len(review.findings) if review else 0, failed=err is not None or not hidden_ok,
-               error=err)
-    if res is not None:
-        res.workspace.cleanup()
+               own_tests_pass=bool(res.report and res.report.ok), calls=budget.calls,
+               input_tokens=budget.input_tokens, output_tokens=budget.output_tokens,
+               total_tokens=budget.input_tokens + budget.output_tokens, cost_usd=round(budget.cost_usd, 4),
+               wall_s=round(res.wall_s, 1), revisions=res.revisions, steps="+".join(res.steps),
+               review_findings=len(res.review.findings) if res.review else 0,
+               failed=bool(err) or not hidden_ok, error=err)
+    res.workspace.cleanup()
     return row
 
 
@@ -112,10 +98,10 @@ def run_benchmark(llm: LLMClient, tasks=TASKS, configs=CONFIGS, **kw):
 
 
 def summarize(df):
-    g = df.groupby("config")
-    return g.agg(pass_rate=("hidden_pass", "mean"),
-                 hidden_test_pass=("hidden_passed", "sum"), hidden_test_total=("hidden_total", "sum"),
-                 failure_rate=("failed", "mean"), avg_cost_usd=("cost_usd", "mean"),
-                 avg_tokens=("input_tokens", lambda s: s.mean() + df.loc[s.index, "output_tokens"].mean()),
-                 avg_wall_s=("wall_s", "mean"), avg_calls=("calls", "mean"),
-                 avg_revisions=("revisions", "mean")).round(3).loc[list(CONFIGS)]
+    df = df.assign(total_tokens=df["input_tokens"] + df["output_tokens"])  # works on older cached CSVs too
+    return df.groupby("config").agg(
+        pass_rate=("hidden_pass", "mean"), hidden_test_pass=("hidden_passed", "sum"),
+        hidden_test_total=("hidden_total", "sum"), failure_rate=("failed", "mean"),
+        avg_cost_usd=("cost_usd", "mean"), avg_tokens=("total_tokens", "mean"),
+        avg_wall_s=("wall_s", "mean"), avg_calls=("calls", "mean"),
+        avg_revisions=("revisions", "mean")).round(3).reindex(list(CONFIGS))

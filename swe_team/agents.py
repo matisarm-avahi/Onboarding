@@ -45,7 +45,7 @@ class Budget:
 
 
 def extract_json(text: str) -> str:
-    m = re.search(r"```(?:json)?\s*(.*?)```", text, re.S)
+    m = re.search(r"```(?:json)?\s*(.*?)```", text, re.DOTALL)
     if m:
         return m.group(1).strip()
     start, end = text.find("{"), text.rfind("}")

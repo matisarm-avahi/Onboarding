@@ -66,3 +66,11 @@ class CodeReviewerAgent(Agent):
     instructions = ("You are a strict code reviewer. Check correctness against the requirements, "
                     "maintainability and security. Report only real defects, each with severity. "
                     "approved=true only if there are no high or medium findings.")
+
+
+class SoloEngineer(Agent):
+    """Single-agent baseline: does requirements, code and tests in one call."""
+    name = "engineer"
+    output_model = CodeChange
+    instructions = ("You are a software engineer. Implement the task, including pytest tests. "
+                    "Return complete contents of every file you create or change.")

@@ -28,18 +28,12 @@ class CodeChange(BaseModel):
     files: list[FileWrite]
 
 
-class TestFailure(BaseModel):
-    test: str
-    message: str
-
-
 class TestReport(BaseModel):
     """Produced by actually running pytest, never by an LLM."""
     passed: int
     failed: int
     errors: int
     ok: bool
-    failures: list[TestFailure] = Field(default_factory=list)
     output_tail: str = ""
 
 
@@ -59,5 +53,4 @@ class RepoProfile(BaseModel):
     languages: dict[str, int]
     frameworks: list[str]
     has_tests: bool
-    test_command: str | None
     tree: list[str]
