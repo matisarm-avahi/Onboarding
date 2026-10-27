@@ -1,0 +1,19 @@
+{
+  "system": null,
+  "model_id": "us.anthropic.claude-sonnet-4-5-20250929-v1:0",
+  "max_tokens": 500,
+  "max_history_tokens": 250,
+  "keep_recent": 2,
+  "auto_summarize": true,
+  "summary": "**Summary:**\n\nUser asked for brief descriptions of three Mexican locations:\n\n1. **Mexico City**: Provided overview of population (9M city/21M metro), location (built on Aztec Tenochtitlan ruins, Valley of Mexico), and characteristics (history, culture, museums, cuisine)\n\n2. **Oaxaca**: Described as southern Mexican state known for indigenous cultures, colonial architecture, and cuisine (mole, mezcal); capital is UNESCO World Heritage site with Monte Albán ruins nearby\n\n3. **Monterrey**: Described as Mexico's 3rd-largest city, capital of Nuevo León in northeast, major industrial/business hub with mountain backdrop (Sierra Madre Oriental, Cerro de la Silla)\n\nNo decisions made or open questions. Pattern: User requesting 2-sentence descriptions of Mexican cities/regions.",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Which of those cities did I ask about first?"
+    },
+    {
+      "role": "assistant",
+      "content": "You asked about **Mexico City** first."
+    }
+  ]
+}

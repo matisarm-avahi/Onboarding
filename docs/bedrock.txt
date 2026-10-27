@@ -1,0 +1,6 @@
+AWS Bedrock is a fully managed service that offers foundation models from companies such as Anthropic, Amazon, Meta and Mistral through a single API.
+You can call models with the InvokeModel API or the Converse API, and stream responses with InvokeModelWithResponseStream.
+
+Bedrock Knowledge Bases provide a managed RAG workflow. Documents are stored in Amazon S3, split into chunks, converted into embeddings and indexed in a vector store such as OpenSearch Serverless. At query time the most relevant chunks are retrieved and passed to the model.
+
+Bedrock Guardrails let you filter harmful content, block denied topics and redact personally identifiable information. Pricing is on-demand, per input and output token, or provisioned throughput for steady workloads.

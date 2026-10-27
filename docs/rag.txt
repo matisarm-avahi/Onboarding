@@ -1,0 +1,7 @@
+Retrieval Augmented Generation (RAG) improves answers by retrieving relevant information from a knowledge base and adding it to the prompt. This reduces hallucinations and lets a model use private or recent data without retraining.
+
+A basic RAG pipeline has four steps: split documents into chunks, embed every chunk, retrieve the chunks closest to the question embedding, and generate an answer using those chunks as context.
+
+Chunk size matters. Chunks that are too small lose context, while chunks that are too large dilute the embedding and waste prompt tokens. A small overlap between consecutive chunks avoids cutting an idea in half.
+
+Re-ranking is an optional second stage. A fast vector search retrieves many candidates, then a more precise model scores each candidate against the question and keeps only the best few.

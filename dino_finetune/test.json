@@ -1,0 +1,139 @@
+[
+ {
+  "species": "Ankylosaurus",
+  "type": "size",
+  "question": "What was the size of Ankylosaurus?",
+  "answer": "Ankylosaurus reached about 6.5 m in length and weighed roughly 6 tonnes. Fun fact: Its tail ended in a heavy bony club used for defense.",
+  "must_include": [
+   "6.5"
+  ]
+ },
+ {
+  "species": "Edmontosaurus",
+  "type": "diet",
+  "question": "What was the diet of Edmontosaurus?",
+  "answer": "Edmontosaurus was a herbivore. Fun fact: This duck-billed dinosaur had hundreds of tightly packed teeth.",
+  "must_include": [
+   "herbivore"
+  ]
+ },
+ {
+  "species": "Stegosaurus",
+  "type": "location",
+  "question": "Where have Stegosaurus fossils been found?",
+  "answer": "Stegosaurus fossils have been found in North America. Fun fact: Its tail carried four spikes, nicknamed the thagomizer.",
+  "must_include": [
+   "North America"
+  ]
+ },
+ {
+  "species": "Dilophosaurus",
+  "type": "location",
+  "question": "Where have Dilophosaurus fossils been found?",
+  "answer": "Dilophosaurus fossils have been found in North America. Fun fact: It had two thin crests on its skull, and there is no evidence it spat venom.",
+  "must_include": [
+   "North America"
+  ]
+ },
+ {
+  "species": "Ankylosaurus",
+  "type": "period",
+  "question": "Which geological period was Ankylosaurus from?",
+  "answer": "Ankylosaurus lived during the Late Cretaceous (about 68-66 million years ago). Fun fact: Its tail ended in a heavy bony club used for defense.",
+  "must_include": [
+   "Late Cretaceous"
+  ]
+ },
+ {
+  "species": "Coelophysis",
+  "type": "profile",
+  "question": "Give me a quick profile of Coelophysis.",
+  "answer": "Coelophysis lived during the Late Triassic (about 215-205 million years ago) in North America. It was a carnivore about 3 m long. Fun fact: Hundreds of its skeletons were discovered together at Ghost Ranch in New Mexico.",
+  "must_include": [
+   "Late Triassic",
+   "carnivore",
+   "North America"
+  ]
+ },
+ {
+  "species": "Edmontosaurus",
+  "type": "size",
+  "question": "How long and how heavy was Edmontosaurus?",
+  "answer": "Edmontosaurus reached about 12 m in length and weighed roughly 4 tonnes. Fun fact: This duck-billed dinosaur had hundreds of tightly packed teeth.",
+  "must_include": [
+   "12"
+  ]
+ },
+ {
+  "species": "Compsognathus",
+  "type": "size",
+  "question": "How big was Compsognathus?",
+  "answer": "Compsognathus reached about 1 m in length and weighed roughly 3 kilograms. Fun fact: It was about the size of a chicken, one of the smallest known dinosaurs.",
+  "must_include": [
+   "1"
+  ]
+ },
+ {
+  "species": "Plateosaurus",
+  "type": "location",
+  "question": "Where have Plateosaurus fossils been found?",
+  "answer": "Plateosaurus fossils have been found in Europe. Fun fact: It is one of the earliest large long-necked dinosaurs.",
+  "must_include": [
+   "Europe"
+  ]
+ },
+ {
+  "species": "Mamenchisaurus",
+  "type": "location",
+  "question": "In which region was Mamenchisaurus discovered?",
+  "answer": "Mamenchisaurus fossils have been found in Asia. Fun fact: Its neck made up about half of its total body length.",
+  "must_include": [
+   "Asia"
+  ]
+ },
+ {
+  "species": "Deinonychus",
+  "type": "diet",
+  "question": "Was Deinonychus a herbivore, a carnivore or an omnivore?",
+  "answer": "Deinonychus was a carnivore. Fun fact: Its discovery changed the view of dinosaurs from slow reptiles to active, bird-like hunters.",
+  "must_include": [
+   "carnivore"
+  ]
+ },
+ {
+  "species": "Tyrannosaurus rex",
+  "type": "location",
+  "question": "In which region was Tyrannosaurus rex discovered?",
+  "answer": "Tyrannosaurus rex fossils have been found in North America. Fun fact: It had one of the strongest bites of any land animal that ever lived.",
+  "must_include": [
+   "North America"
+  ]
+ },
+ {
+  "species": "Iguanodon",
+  "type": "location",
+  "question": "In which region was Iguanodon discovered?",
+  "answer": "Iguanodon fossils have been found in Europe. Fun fact: It was one of the first dinosaurs ever named, back in 1825.",
+  "must_include": [
+   "Europe"
+  ]
+ },
+ {
+  "species": "Mamenchisaurus",
+  "type": "size",
+  "question": "How long and how heavy was Mamenchisaurus?",
+  "answer": "Mamenchisaurus reached about 26 m in length and weighed roughly 20 tonnes. Fun fact: Its neck made up about half of its total body length.",
+  "must_include": [
+   "26"
+  ]
+ },
+ {
+  "species": "Argentinosaurus",
+  "type": "size",
+  "question": "How big was Argentinosaurus?",
+  "answer": "Argentinosaurus reached about 30 m in length and weighed roughly 70 tonnes. Fun fact: It is one of the heaviest land animals known to science.",
+  "must_include": [
+   "30"
+  ]
+ }
+]

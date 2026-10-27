@@ -1,0 +1,2706 @@
+{
+ "answers": {
+  "Haiku 4.5|1": {
+   "text": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy stored in glucose, using carbon dioxide and water. During this process, oxygen is released as a byproduct. It's the fundamental process that produces most of the oxygen we breathe and forms the base of most food chains on Earth.",
+   "input_tokens": 38,
+   "output_tokens": 78,
+   "latency": 1.2210814952850342,
+   "error": null
+  },
+  "Haiku 4.5|2": {
+   "text": "The sky is blue because of a phenomenon called Rayleigh scattering, where shorter blue wavelengths of sunlight are scattered more efficiently by nitrogen and oxygen molecules in the atmosphere than longer red wavelengths. This scattered blue light reaches our eyes from all directions, making the entire sky appear blue. At sunset, the sky turns red and orange because light travels through more atmosphere at a lower angle, scattering away the blue light and allowing longer red wavelengths to dominate.",
+   "input_tokens": 37,
+   "output_tokens": 104,
+   "latency": 2.999986410140991,
+   "error": null
+  },
+  "Haiku 4.5|3": {
+   "text": "DNA stands for deoxyribonucleic acid. It is a molecule that contains the genetic instructions for building and maintaining all living organisms, storing information that is passed from parents to offspring through genes.",
+   "input_tokens": 42,
+   "output_tokens": 45,
+   "latency": 2.5616891384124756,
+   "error": null
+  },
+  "Haiku 4.5|4": {
+   "text": "Newton's second law of motion states that the acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass, expressed as F = ma (force equals mass times acceleration). This means that a greater force produces greater acceleration, while a greater mass produces less acceleration for the same force.",
+   "input_tokens": 40,
+   "output_tokens": 70,
+   "latency": 2.512726068496704,
+   "error": null
+  },
+  "Haiku 4.5|5": {
+   "text": "The seasons are caused by the tilt of Earth's axis relative to its orbital plane around the Sun. As Earth orbits the Sun, different hemispheres are tilted toward or away from the Sun at different times of year, causing variations in the angle and intensity of sunlight that reach the surface. When your hemisphere is tilted toward the Sun, you experience summer with longer days and more direct sunlight, while tilting away causes winter with shorter days and less intense sunlight.",
+   "input_tokens": 38,
+   "output_tokens": 102,
+   "latency": 1.4360718727111816,
+   "error": null
+  },
+  "Haiku 4.5|6": {
+   "text": "The Pythagorean theorem states that in a right triangle, the square of the hypotenuse (the longest side) equals the sum of the squares of the other two sides, expressed as a² + b² = c², where c is the hypotenuse.",
+   "input_tokens": 41,
+   "output_tokens": 61,
+   "latency": 0.8594918251037598,
+   "error": null
+  },
+  "Haiku 4.5|7": {
+   "text": "The derivative of x² is 2x.",
+   "input_tokens": 39,
+   "output_tokens": 13,
+   "latency": 0.7169413566589355,
+   "error": null
+  },
+  "Haiku 4.5|8": {
+   "text": "A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. The first five prime numbers are 2, 3, 5, 7, and 11.",
+   "input_tokens": 42,
+   "output_tokens": 51,
+   "latency": 0.8482174873352051,
+   "error": null
+  },
+  "Haiku 4.5|9": {
+   "text": "The average speed is 80 km/h, calculated by dividing the distance (120 km) by the time (1.5 hours): 120 ÷ 1.5 = 80 km/h.",
+   "input_tokens": 53,
+   "output_tokens": 55,
+   "latency": 1.1285440921783447,
+   "error": null
+  },
+  "Haiku 4.5|10": {
+   "text": "The sum of the interior angles of a triangle is 180 degrees.",
+   "input_tokens": 43,
+   "output_tokens": 18,
+   "latency": 0.8157868385314941,
+   "error": null
+  },
+  "Haiku 4.5|11": {
+   "text": "George Washington was the first president of the United States, serving from 1789 to 1797.",
+   "input_tokens": 41,
+   "output_tokens": 25,
+   "latency": 0.7612926959991455,
+   "error": null
+  },
+  "Haiku 4.5|12": {
+   "text": "World War II ended in 1945, with Germany surrendering in May and Japan surrendering in September.",
+   "input_tokens": 40,
+   "output_tokens": 25,
+   "latency": 0.8450443744659424,
+   "error": null
+  },
+  "Haiku 4.5|13": {
+   "text": "The Renaissance was a cultural and intellectual movement spanning roughly the 14th to 17th centuries that began in Italy and spread throughout Europe, marking the transition from the Middle Ages to the modern era. It was characterized by a revival of classical Greek and Roman learning, advances in art and science, humanism, and the development of new artistic techniques like perspective. Key figures included artists like Leonardo da Vinci and Michelangelo, and it laid the groundwork for the Scientific Revolution and the modern world.",
+   "input_tokens": 36,
+   "output_tokens": 107,
+   "latency": 1.4364933967590332,
+   "error": null
+  },
+  "Haiku 4.5|14": {
+   "text": "The pyramids of Giza were built by ancient Egyptians during the Old Kingdom, primarily under the reign of Pharaoh Khufu (around 2589-2566 BCE), who commissioned the Great Pyramid. The other two major pyramids were built by his successors Khafre and Menkaure.",
+   "input_tokens": 41,
+   "output_tokens": 75,
+   "latency": 1.2332708835601807,
+   "error": null
+  },
+  "Haiku 4.5|15": {
+   "text": "The storming of the Bastille on July 14, 1789, is widely considered the symbolic start of the French Revolution. However, the revolution's causes were rooted in financial crisis, food shortages, Enlightenment ideas, and the convening of the Estates-General in May 1789, which led to the formation of the National Assembly and the Declaration of the Rights of Man and of the Citizen in August.",
+   "input_tokens": 42,
+   "output_tokens": 95,
+   "latency": 1.3556690216064453,
+   "error": null
+  },
+  "Haiku 4.5|16": {
+   "text": "The capital of Australia is Canberra. It was purpose-built as the capital city and is located in the Australian Capital Territory (ACT), situated between the rival cities of Sydney and Melbourne.",
+   "input_tokens": 38,
+   "output_tokens": 44,
+   "latency": 1.0645930767059326,
+   "error": null
+  },
+  "Haiku 4.5|17": {
+   "text": "The Amazon River is the longest river in South America, stretching approximately 4,000 miles (6,400 kilometers) across the continent.",
+   "input_tokens": 40,
+   "output_tokens": 34,
+   "latency": 0.9903883934020996,
+   "error": null
+  },
+  "Haiku 4.5|18": {
+   "text": "The Pacific Ocean is the largest ocean on Earth, covering approximately 165 million square kilometers (64 million square miles), which is larger than all other oceans combined.",
+   "input_tokens": 39,
+   "output_tokens": 38,
+   "latency": 0.9136419296264648,
+   "error": null
+  },
+  "Haiku 4.5|19": {
+   "text": "Mount Everest is the tallest mountain above sea level, standing at 29,032 feet (8,849 meters) above sea level on the border between Nepal and Tibet.",
+   "input_tokens": 41,
+   "output_tokens": 42,
+   "latency": 0.8426687717437744,
+   "error": null
+  },
+  "Haiku 4.5|20": {
+   "text": "India is the most populous country in the world, with over 1.4 billion people as of 2023, surpassing China which held the position for decades.",
+   "input_tokens": 41,
+   "output_tokens": 39,
+   "latency": 0.9179444313049316,
+   "error": null
+  },
+  "Haiku 4.5|21": {
+   "text": "A process is an independent program instance with its own memory space, resources, and system state, while a thread is a lightweight unit of execution within a process that shares the same memory and resources with other threads in that process. Processes are isolated from each other (one process crash won't directly affect others), whereas threads can directly access shared data, making them faster to create but requiring careful synchronization to avoid conflicts.",
+   "input_tokens": 42,
+   "output_tokens": 87,
+   "latency": 1.6350791454315186,
+   "error": null
+  },
+  "Haiku 4.5|22": {
+   "text": "HTTP stands for HyperText Transfer Protocol. It is the foundational protocol used for transferring data across the World Wide Web, enabling communication between web browsers and servers.",
+   "input_tokens": 37,
+   "output_tokens": 38,
+   "latency": 0.8467898368835449,
+   "error": null
+  },
+  "Haiku 4.5|23": {
+   "text": "Big O notation is a mathematical tool used to describe how an algorithm's runtime or space requirements grow as the input size increases. It focuses on the worst-case scenario and ignores constant factors, allowing developers to compare algorithm efficiency at a high level. Common examples include O(1) for constant time, O(n) for linear time, and O(n²) for quadratic time.",
+   "input_tokens": 37,
+   "output_tokens": 83,
+   "latency": 1.3114783763885498,
+   "error": null
+  },
+  "Haiku 4.5|24": {
+   "text": "A REST API is a web service that uses HTTP requests to perform operations on resources identified by URLs, following the principles of Representational State Transfer (REST). It uses standard HTTP methods (GET, POST, PUT, DELETE) to retrieve, create, update, and delete data, typically returning responses in JSON or XML format. REST APIs are stateless, scalable, and widely used for enabling communication between different software applications over the internet.",
+   "input_tokens": 37,
+   "output_tokens": 92,
+   "latency": 1.3343932628631592,
+   "error": null
+  },
+  "Haiku 4.5|25": {
+   "text": "A database index improves query performance by creating a data structure that allows the database to quickly locate rows without scanning the entire table. Indexes work similarly to a book's index, enabling faster searches, filtering, and sorting operations, though they require additional storage space and slightly slow down write operations like inserts and updates.",
+   "input_tokens": 40,
+   "output_tokens": 67,
+   "latency": 1.2389450073242188,
+   "error": null
+  },
+  "Haiku 4.5|26": {
+   "text": "Miguel de Cervantes wrote Don Quixote. The novel was first published in two parts, with Part 1 appearing in 1605 and Part 2 in 1615.",
+   "input_tokens": 39,
+   "output_tokens": 45,
+   "latency": 0.9734156131744385,
+   "error": null
+  },
+  "Haiku 4.5|27": {
+   "text": "Leonardo da Vinci painted the Mona Lisa. He created this iconic portrait during the Italian Renaissance, likely between 1503 and 1519.",
+   "input_tokens": 39,
+   "output_tokens": 36,
+   "latency": 0.8809349536895752,
+   "error": null
+  },
+  "Haiku 4.5|28": {
+   "text": "William Shakespeare wrote Romeo and Juliet. It was written early in his career, likely between 1594 and 1596, and remains one of his most famous and frequently performed plays.",
+   "input_tokens": 39,
+   "output_tokens": 43,
+   "latency": 0.9481000900268555,
+   "error": null
+  },
+  "Haiku 4.5|29": {
+   "text": "Gabriel García Márquez wrote One Hundred Years of Solitude. The novel was published in 1967 and is considered one of the most important works of Latin American literature.",
+   "input_tokens": 42,
+   "output_tokens": 41,
+   "latency": 0.8354406356811523,
+   "error": null
+  },
+  "Haiku 4.5|30": {
+   "text": "A haiku is a traditional form of Japanese poetry consisting of three lines with a 5-7-5 syllable pattern. It typically captures a single moment in nature or expresses a profound emotion or observation in a concise, imagistic way.",
+   "input_tokens": 37,
+   "output_tokens": 55,
+   "latency": 0.9236221313476562,
+   "error": null
+  },
+  "Haiku 4.5|31": {
+   "text": "Red blood cells transport oxygen from the lungs to tissues throughout the body and carry carbon dioxide back to the lungs for exhalation. They contain hemoglobin, a protein that binds to oxygen, enabling this vital gas exchange function.",
+   "input_tokens": 40,
+   "output_tokens": 53,
+   "latency": 1.0143587589263916,
+   "error": null
+  },
+  "Haiku 4.5|32": {
+   "text": "Viruses are much smaller, non-living particles that require host cells to replicate, while bacteria are larger, living single-celled organisms that can reproduce independently. Bacteria have cell membranes and DNA, whereas viruses consist only of genetic material (DNA or RNA) surrounded by a protein coat. Antibiotics can kill bacteria but are ineffective against viruses, which require different treatment approaches.",
+   "input_tokens": 43,
+   "output_tokens": 87,
+   "latency": 1.4458367824554443,
+   "error": null
+  },
+  "Haiku 4.5|33": {
+   "text": "Sleep is crucial for physical and mental health because it allows your body to repair tissues, consolidate memories, and regulate hormones that control hunger, mood, and immune function. During sleep, your brain also clears out toxins and processes emotions, which is why adequate sleep improves cognitive performance, emotional resilience, and overall well-being. Chronic sleep deprivation increases the risk of serious health problems including obesity, diabetes, cardiovascular disease, and depression.",
+   "input_tokens": 36,
+   "output_tokens": 98,
+   "latency": 1.6691992282867432,
+   "error": null
+  },
+  "Haiku 4.5|34": {
+   "text": "Insulin is a hormone that regulates blood sugar levels by allowing cells to absorb glucose from the bloodstream for energy or storage. When blood sugar rises after eating, the pancreas releases insulin to lower it back to normal levels.",
+   "input_tokens": 36,
+   "output_tokens": 50,
+   "latency": 1.048630952835083,
+   "error": null
+  },
+  "Haiku 4.5|35": {
+   "text": "A balanced diet includes appropriate portions of all major food groups: fruits, vegetables, whole grains, lean proteins, and healthy fats, along with adequate hydration. It provides the necessary nutrients, vitamins, and minerals your body needs while maintaining a healthy calorie intake for your individual needs. The specific balance varies by age, activity level, and health conditions.",
+   "input_tokens": 37,
+   "output_tokens": 77,
+   "latency": 1.4800384044647217,
+   "error": null
+  },
+  "Haiku 4.5|36": {
+   "text": "Inflation is the rate at which the general level of prices for goods and services rises over time, reducing the purchasing power of money. When inflation occurs, each unit of currency buys fewer goods and services than it did previously. It's typically measured as a percentage change in a price index like the Consumer Price Index (CPI) over a specific period.",
+   "input_tokens": 35,
+   "output_tokens": 75,
+   "latency": 1.2024743556976318,
+   "error": null
+  },
+  "Haiku 4.5|37": {
+   "text": "Revenue is the total income a company generates from selling goods or services, while profit is what remains after subtracting all expenses (costs, taxes, etc.) from that revenue. In other words, revenue is the top-line figure, and profit is the bottom-line figure that shows actual earnings.",
+   "input_tokens": 40,
+   "output_tokens": 64,
+   "latency": 1.329336404800415,
+   "error": null
+  },
+  "Haiku 4.5|38": {
+   "text": "Supply and demand is an economic model explaining how prices are determined in a market. Supply refers to the quantity of goods producers are willing to offer at various prices, while demand refers to the quantity consumers are willing to buy; prices tend to rise when demand exceeds supply and fall when supply exceeds demand, reaching equilibrium at the market price where quantities match.",
+   "input_tokens": 37,
+   "output_tokens": 75,
+   "latency": 1.184802532196045,
+   "error": null
+  },
+  "Haiku 4.5|39": {
+   "text": "A stock is a share of ownership in a company that represents a claim on a portion of its assets and earnings. When you buy stock, you become a shareholder and may receive dividends (profits) and have voting rights in company decisions. Stocks are traded on exchanges like the NYSE or NASDAQ, and their prices fluctuate based on company performance and market conditions.",
+   "input_tokens": 36,
+   "output_tokens": 79,
+   "latency": 1.188826084136963,
+   "error": null
+  },
+  "Haiku 4.5|40": {
+   "text": "GDP (Gross Domestic Product) measures the total monetary value of all finished goods and services produced within a country's borders during a specific period, typically one year. It is the primary indicator used to assess the economic health and size of a nation's economy.",
+   "input_tokens": 36,
+   "output_tokens": 56,
+   "latency": 1.0924522876739502,
+   "error": null
+  },
+  "Haiku 4.5|41": {
+   "text": "The plural of 'analysis' is 'analyses'.",
+   "input_tokens": 41,
+   "output_tokens": 15,
+   "latency": 0.7291052341461182,
+   "error": null
+  },
+  "Haiku 4.5|42": {
+   "text": "Yes, all bloops are lazzies. This follows from the transitive property: if bloops are razzies and razzies are lazzies, then bloops must be lazzies.",
+   "input_tokens": 57,
+   "output_tokens": 46,
+   "latency": 1.0224525928497314,
+   "error": null
+  },
+  "Haiku 4.5|43": {
+   "text": "Joyful, cheerful, and content are three synonyms for happy.",
+   "input_tokens": 40,
+   "output_tokens": 20,
+   "latency": 0.7642433643341064,
+   "error": null
+  },
+  "Haiku 4.5|44": {
+   "text": "Buenos días, ¿cómo estás?",
+   "input_tokens": 45,
+   "output_tokens": 15,
+   "latency": 0.8625319004058838,
+   "error": null
+  },
+  "Haiku 4.5|45": {
+   "text": "The next number is 32. Each number in the sequence is multiplied by 2 to get the next number (2×2=4, 4×2=8, 8×2=16, 16×2=32).",
+   "input_tokens": 51,
+   "output_tokens": 55,
+   "latency": 0.9848408699035645,
+   "error": null
+  },
+  "Haiku 4.5|46": {
+   "text": "Amazon S3 (Simple Storage Service) is a cloud storage service that allows users to store and retrieve any amount of data from anywhere on the internet. It offers scalable, reliable, and cost-effective object storage with high availability and security features, commonly used for backups, data archiving, content distribution, and hosting static websites.",
+   "input_tokens": 37,
+   "output_tokens": 72,
+   "latency": 1.3397810459136963,
+   "error": null
+  },
+  "Haiku 4.5|47": {
+   "text": "AWS Lambda is a serverless compute service that lets you run code without provisioning or managing servers. You pay only for the compute time you consume, and Lambda automatically scales your application by running code in response to events from various AWS services or custom triggers.",
+   "input_tokens": 36,
+   "output_tokens": 54,
+   "latency": 1.111823558807373,
+   "error": null
+  },
+  "Haiku 4.5|48": {
+   "text": "An IAM (Identity and Access Management) role is a set of permissions that define what actions an AWS service or user can perform on AWS resources. Roles are assumed by entities like EC2 instances, Lambda functions, or users, and they grant temporary security credentials instead of long-term access keys. Roles follow the principle of least privilege by allowing you to grant only the specific permissions needed for a particular task.",
+   "input_tokens": 38,
+   "output_tokens": 88,
+   "latency": 1.2986690998077393,
+   "error": null
+  },
+  "Haiku 4.5|49": {
+   "text": "An Availability Zone (AZ) is a physically isolated location within a cloud region that contains independent power, cooling, and networking infrastructure. Multiple AZs within a region are connected by low-latency networks, allowing users to deploy applications across zones for high availability and fault tolerance. If one AZ experiences an outage, applications running in other AZs remain unaffected.",
+   "input_tokens": 38,
+   "output_tokens": 82,
+   "latency": 1.3100512027740479,
+   "error": null
+  },
+  "Haiku 4.5|50": {
+   "text": "Amazon Bedrock is a fully managed service that provides access to foundation models (large language models and image generation models) from various AI providers like Anthropic, Cohere, Meta, and Mistral through a single API. It allows developers to build and scale generative AI applications without managing infrastructure, offering features like prompt engineering, retrieval-augmented generation (RAG), and model fine-tuning.",
+   "input_tokens": 38,
+   "output_tokens": 89,
+   "latency": 1.3796720504760742,
+   "error": null
+  },
+  "Sonnet 4.6|1": {
+   "text": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy (usually from the sun) into chemical energy stored as glucose. It uses carbon dioxide and water as inputs and releases oxygen as a byproduct, following the general equation: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂.",
+   "input_tokens": 39,
+   "output_tokens": 95,
+   "latency": 1.5522329807281494,
+   "error": null
+  },
+  "Sonnet 4.6|2": {
+   "text": "The sky is blue because of Rayleigh scattering: sunlight contains all colors, but the atmosphere scatters shorter blue wavelengths much more than longer red wavelengths, spreading blue light across the entire sky. This is also why sunsets appear red and orange, as light travels through more atmosphere at low angles, scattering away the blue light.",
+   "input_tokens": 38,
+   "output_tokens": 80,
+   "latency": 1.8592703342437744,
+   "error": null
+  },
+  "Sonnet 4.6|3": {
+   "text": "DNA stands for Deoxyribonucleic Acid. It is a molecule that carries the genetic instructions for the development, functioning, growth, and reproduction of all known living organisms and many viruses. It essentially serves as the blueprint for building and operating a living cell.",
+   "input_tokens": 43,
+   "output_tokens": 61,
+   "latency": 1.6807732582092285,
+   "error": null
+  },
+  "Sonnet 4.6|4": {
+   "text": "Newton's second law states that the acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass. This is expressed as F = ma, where F is the net force, m is the mass, and a is the acceleration.",
+   "input_tokens": 41,
+   "output_tokens": 60,
+   "latency": 1.157275915145874,
+   "error": null
+  },
+  "Sonnet 4.6|5": {
+   "text": "Earth's seasons are caused by the tilt of its axis (approximately 23.5 degrees) relative to its orbital plane around the Sun. As Earth orbits the Sun, this tilt causes different hemispheres to receive more direct sunlight at different times of year, resulting in summer when a hemisphere is tilted toward the Sun and winter when it is tilted away.",
+   "input_tokens": 39,
+   "output_tokens": 81,
+   "latency": 1.3706467151641846,
+   "error": null
+  },
+  "Sonnet 4.6|6": {
+   "text": "The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse (c) equals the sum of the squares of the other two sides (a and b), expressed as a² + b² = c².",
+   "input_tokens": 42,
+   "output_tokens": 57,
+   "latency": 1.215787649154663,
+   "error": null
+  },
+  "Sonnet 4.6|7": {
+   "text": "The derivative of x² is 2x.",
+   "input_tokens": 40,
+   "output_tokens": 13,
+   "latency": 0.9476468563079834,
+   "error": null
+  },
+  "Sonnet 4.6|8": {
+   "text": "A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. The first five prime numbers are 2, 3, 5, 7, and 11.",
+   "input_tokens": 43,
+   "output_tokens": 51,
+   "latency": 0.9295458793640137,
+   "error": null
+  },
+  "Sonnet 4.6|9": {
+   "text": "The train's average speed is 80 km/h (120 km ÷ 1.5 hours = 80 km/h).",
+   "input_tokens": 54,
+   "output_tokens": 37,
+   "latency": 1.1586618423461914,
+   "error": null
+  },
+  "Sonnet 4.6|10": {
+   "text": "The sum of the interior angles of a triangle is always 180 degrees.",
+   "input_tokens": 44,
+   "output_tokens": 19,
+   "latency": 1.0371813774108887,
+   "error": null
+  },
+  "Sonnet 4.6|11": {
+   "text": "George Washington was the first president of the United States, serving from 1789 to 1797.",
+   "input_tokens": 42,
+   "output_tokens": 25,
+   "latency": 0.9892902374267578,
+   "error": null
+  },
+  "Sonnet 4.6|12": {
+   "text": "World War II ended in 1945, with Germany surrendering on May 8 (V-E Day) and Japan surrendering on September 2 (V-J Day).",
+   "input_tokens": 41,
+   "output_tokens": 42,
+   "latency": 1.1733531951904297,
+   "error": null
+  },
+  "Sonnet 4.6|13": {
+   "text": "The Renaissance was a cultural and intellectual movement that began in Italy in the 14th century and spread across Europe through the 17th century, marked by a renewed interest in classical Greek and Roman art, literature, and philosophy. It produced groundbreaking achievements in art, science, and humanism, with figures like Leonardo da Vinci, Michelangelo, and Galileo. It is generally considered the transition period between the Middle Ages and the modern era.",
+   "input_tokens": 37,
+   "output_tokens": 100,
+   "latency": 1.7478044033050537,
+   "error": null
+  },
+  "Sonnet 4.6|14": {
+   "text": "The pyramids of Giza were built by the ancient Egyptians during the Old Kingdom period, around 2580–2560 BC. They were constructed under the orders of Pharaohs Khufu, Khafre, and Menkaure, using a large workforce of skilled laborers and workers, not slaves as was once commonly believed.",
+   "input_tokens": 42,
+   "output_tokens": 80,
+   "latency": 1.7764132022857666,
+   "error": null
+  },
+  "Sonnet 4.6|15": {
+   "text": "The storming of the Bastille on July 14, 1789, is widely considered the symbolic start of the French Revolution, though it was preceded by the formation of the National Assembly and the Tennis Court Oath. Underlying causes included financial crisis, food shortages, and widespread resentment of the monarchy and aristocracy.",
+   "input_tokens": 43,
+   "output_tokens": 72,
+   "latency": 1.5916533470153809,
+   "error": null
+  },
+  "Sonnet 4.6|16": {
+   "text": "The capital of Australia is Canberra.",
+   "input_tokens": 39,
+   "output_tokens": 13,
+   "latency": 0.9918041229248047,
+   "error": null
+  },
+  "Sonnet 4.6|17": {
+   "text": "The Amazon River is the longest river in South America, stretching approximately 6,400 kilometers (3,976 miles).",
+   "input_tokens": 41,
+   "output_tokens": 30,
+   "latency": 0.9781239032745361,
+   "error": null
+  },
+  "Sonnet 4.6|18": {
+   "text": "The Pacific Ocean is the largest ocean on Earth, covering approximately 165 million square kilometers and accounting for about 46% of Earth's water surface.",
+   "input_tokens": 40,
+   "output_tokens": 34,
+   "latency": 1.0302515029907227,
+   "error": null
+  },
+  "Sonnet 4.6|19": {
+   "text": "Mount Everest is the tallest mountain above sea level, standing at 8,848.86 meters (29,031.7 feet).",
+   "input_tokens": 42,
+   "output_tokens": 35,
+   "latency": 1.0817933082580566,
+   "error": null
+  },
+  "Sonnet 4.6|20": {
+   "text": "China and India are both contenders, but as of 2023, India has surpassed China to become the most populous country in the world, with over 1.4 billion people.",
+   "input_tokens": 42,
+   "output_tokens": 44,
+   "latency": 1.054084062576294,
+   "error": null
+  },
+  "Sonnet 4.6|21": {
+   "text": "A process is an independent program in execution with its own memory space, while a thread is a lighter-weight unit of execution that exists within a process and shares its memory and resources with other threads in the same process. Multiple threads within a process can run concurrently, making communication between them faster but also introducing risks like race conditions, whereas processes are more isolated and require inter-process communication mechanisms to share data.",
+   "input_tokens": 43,
+   "output_tokens": 87,
+   "latency": 1.8275353908538818,
+   "error": null
+  },
+  "Sonnet 4.6|22": {
+   "text": "HTTP stands for HyperText Transfer Protocol.",
+   "input_tokens": 38,
+   "output_tokens": 13,
+   "latency": 1.0105698108673096,
+   "error": null
+  },
+  "Sonnet 4.6|23": {
+   "text": "Big O notation is a mathematical notation used to describe the upper bound of an algorithm's time or space complexity as the input size grows. It expresses how the runtime or memory usage scales relative to the input size, ignoring constants and lower-order terms. For example, O(n) means linear growth, O(n²) means quadratic growth, and O(log n) means logarithmic growth.",
+   "input_tokens": 38,
+   "output_tokens": 88,
+   "latency": 1.672821044921875,
+   "error": null
+  },
+  "Sonnet 4.6|24": {
+   "text": "A REST API (Representational State Transfer Application Programming Interface) is a set of rules and conventions for building web services that allow different applications to communicate over HTTP. It uses standard HTTP methods like GET, POST, PUT, and DELETE to perform operations on resources, which are typically represented in JSON or XML format. REST APIs are stateless, meaning each request contains all the information needed to process it independently.",
+   "input_tokens": 38,
+   "output_tokens": 85,
+   "latency": 1.5805141925811768,
+   "error": null
+  },
+  "Sonnet 4.6|25": {
+   "text": "A database index is a data structure that improves the speed of data retrieval operations by allowing the database engine to find rows quickly without scanning the entire table. It works similarly to a book's index, storing pointers to the actual data locations based on the values of one or more columns. The trade-off is that indexes consume additional storage space and can slow down write operations (INSERT, UPDATE, DELETE) since the index must also be updated.",
+   "input_tokens": 41,
+   "output_tokens": 94,
+   "latency": 1.7525155544281006,
+   "error": null
+  },
+  "Sonnet 4.6|26": {
+   "text": "Don Quixote was written by Miguel de Cervantes, published in two parts in 1605 and 1615.",
+   "input_tokens": 40,
+   "output_tokens": 31,
+   "latency": 0.9889464378356934,
+   "error": null
+  },
+  "Sonnet 4.6|27": {
+   "text": "Leonardo da Vinci painted the Mona Lisa, likely between 1503 and 1519.",
+   "input_tokens": 40,
+   "output_tokens": 26,
+   "latency": 1.0610616207122803,
+   "error": null
+  },
+  "Sonnet 4.6|28": {
+   "text": "William Shakespeare wrote Romeo and Juliet, believed to have been written around 1594–1596.",
+   "input_tokens": 40,
+   "output_tokens": 25,
+   "latency": 1.0564987659454346,
+   "error": null
+  },
+  "Sonnet 4.6|29": {
+   "text": "Gabriel García Márquez wrote One Hundred Years of Solitude, published in 1967.",
+   "input_tokens": 43,
+   "output_tokens": 24,
+   "latency": 1.114548921585083,
+   "error": null
+  },
+  "Sonnet 4.6|30": {
+   "text": "A haiku is a form of Japanese poetry consisting of three lines with a 5-7-5 syllable structure. It traditionally focuses on nature, a brief moment, or a sensory experience, often evoking emotion through simple, vivid imagery.",
+   "input_tokens": 38,
+   "output_tokens": 57,
+   "latency": 1.5368409156799316,
+   "error": null
+  },
+  "Sonnet 4.6|31": {
+   "text": "Red blood cells transport oxygen from the lungs to the body's tissues and carry carbon dioxide back to the lungs for exhalation. This is accomplished through hemoglobin, the iron-containing protein that binds to oxygen molecules.",
+   "input_tokens": 41,
+   "output_tokens": 52,
+   "latency": 1.5091123580932617,
+   "error": null
+  },
+  "Sonnet 4.6|32": {
+   "text": "Bacteria are single-celled living organisms that can reproduce independently and have their own metabolism, while viruses are non-living particles consisting of genetic material (DNA or RNA) enclosed in a protein coat that can only replicate by hijacking the machinery of a host cell. Bacteria can be killed by antibiotics, whereas viruses cannot.",
+   "input_tokens": 44,
+   "output_tokens": 73,
+   "latency": 1.6817896366119385,
+   "error": null
+  },
+  "Sonnet 4.6|33": {
+   "text": "Sleep is essential for physical and mental health because it allows the body to repair tissues, consolidate memories, and regulate hormones. Without adequate sleep, cognitive function, immune response, and emotional regulation all deteriorate. Chronic sleep deprivation is linked to serious health conditions such as heart disease, diabetes, and depression.",
+   "input_tokens": 37,
+   "output_tokens": 68,
+   "latency": 1.6381406784057617,
+   "error": null
+  },
+  "Sonnet 4.6|34": {
+   "text": "Insulin is a hormone produced by the pancreas that allows cells to absorb glucose from the bloodstream for energy or storage, thereby lowering blood sugar levels. It also plays a role in fat and protein metabolism.",
+   "input_tokens": 37,
+   "output_tokens": 47,
+   "latency": 1.3082034587860107,
+   "error": null
+  },
+  "Sonnet 4.6|35": {
+   "text": "A balanced diet is one that provides all the essential nutrients, vitamins, and minerals the body needs in the right proportions to maintain good health. It typically includes a variety of foods from all major food groups: fruits, vegetables, whole grains, lean proteins, and healthy fats, while limiting processed foods, added sugars, and excess salt.",
+   "input_tokens": 38,
+   "output_tokens": 75,
+   "latency": 1.525679111480713,
+   "error": null
+  },
+  "Sonnet 4.6|36": {
+   "text": "Inflation is the general increase in prices of goods and services over time, which reduces the purchasing power of money. It is typically measured as a percentage rate, such as the Consumer Price Index (CPI), and means that each unit of currency buys less than it did before.",
+   "input_tokens": 36,
+   "output_tokens": 60,
+   "latency": 1.641237497329712,
+   "error": null
+  },
+  "Sonnet 4.6|37": {
+   "text": "Revenue is the total income generated from sales before any expenses are deducted, while profit is what remains after all costs, expenses, and taxes have been subtracted from revenue. In simple terms, revenue is the \"top line\" and profit is the \"bottom line.\"",
+   "input_tokens": 41,
+   "output_tokens": 58,
+   "latency": 1.4371731281280518,
+   "error": null
+  },
+  "Sonnet 4.6|38": {
+   "text": "Supply and demand is an economic model describing how the price and quantity of goods are determined in a market. When supply increases or demand decreases, prices tend to fall; when supply decreases or demand increases, prices tend to rise. The point where supply and demand balance is called the equilibrium price.",
+   "input_tokens": 38,
+   "output_tokens": 64,
+   "latency": 1.5505549907684326,
+   "error": null
+  },
+  "Sonnet 4.6|39": {
+   "text": "A stock is a share of ownership in a company, representing a claim on part of the company's assets and earnings. When you buy stock, you become a shareholder and can potentially profit if the company grows in value or pays dividends.",
+   "input_tokens": 37,
+   "output_tokens": 52,
+   "latency": 1.2742631435394287,
+   "error": null
+  },
+  "Sonnet 4.6|40": {
+   "text": "GDP (Gross Domestic Product) measures the total monetary value of all goods and services produced within a country's borders during a specific time period, typically a year or quarter. It serves as the primary indicator of a nation's economic size and health.",
+   "input_tokens": 37,
+   "output_tokens": 54,
+   "latency": 1.350358009338379,
+   "error": null
+  },
+  "Sonnet 4.6|41": {
+   "text": "The plural of \"analysis\" is \"analyses.\"",
+   "input_tokens": 42,
+   "output_tokens": 13,
+   "latency": 0.8001546859741211,
+   "error": null
+  },
+  "Sonnet 4.6|42": {
+   "text": "Yes. Since all bloops are razzies, and all razzies are lazzies, it follows logically that all bloops are lazzies.",
+   "input_tokens": 58,
+   "output_tokens": 37,
+   "latency": 1.0866448879241943,
+   "error": null
+  },
+  "Sonnet 4.6|43": {
+   "text": "Joyful, content, elated.",
+   "input_tokens": 41,
+   "output_tokens": 13,
+   "latency": 1.035536289215088,
+   "error": null
+  },
+  "Sonnet 4.6|44": {
+   "text": "Buenos días, ¿cómo estás?",
+   "input_tokens": 46,
+   "output_tokens": 15,
+   "latency": 0.7774441242218018,
+   "error": null
+  },
+  "Sonnet 4.6|45": {
+   "text": "The next number is 32, as each number in the sequence is doubled (multiplied by 2).",
+   "input_tokens": 52,
+   "output_tokens": 25,
+   "latency": 1.1297705173492432,
+   "error": null
+  },
+  "Sonnet 4.6|46": {
+   "text": "Amazon S3 (Simple Storage Service) is a scalable cloud object storage service provided by AWS that allows users to store and retrieve any amount of data from anywhere on the internet. It stores data as objects within buckets and is commonly used for backup, archiving, data lakes, static website hosting, and application data storage.",
+   "input_tokens": 38,
+   "output_tokens": 70,
+   "latency": 1.4791145324707031,
+   "error": null
+  },
+  "Sonnet 4.6|47": {
+   "text": "AWS Lambda is a serverless compute service that lets you run code without provisioning or managing servers. You upload your code and Lambda automatically handles execution, scaling, and availability, charging you only for the compute time consumed. It is commonly used for event-driven tasks, APIs, and backend processing.",
+   "input_tokens": 37,
+   "output_tokens": 63,
+   "latency": 1.346243143081665,
+   "error": null
+  },
+  "Sonnet 4.6|48": {
+   "text": "An IAM role is an AWS Identity and Access Management entity that defines a set of permissions for making AWS service requests, which can be assumed by trusted entities such as AWS services, applications, or users. Unlike IAM users, roles do not have long-term credentials; instead, they provide temporary security credentials when assumed. For example, an EC2 instance can assume a role to gain permissions to access S3 without storing access keys.",
+   "input_tokens": 39,
+   "output_tokens": 93,
+   "latency": 1.9760847091674805,
+   "error": null
+  },
+  "Sonnet 4.6|49": {
+   "text": "An Availability Zone (AZ) is an isolated data center or group of data centers within a cloud provider's region, each with independent power, cooling, and networking. They are physically separated but connected through low-latency links, allowing users to deploy resources across multiple AZs for high availability and fault tolerance.",
+   "input_tokens": 39,
+   "output_tokens": 68,
+   "latency": 1.5878140926361084,
+   "error": null
+  },
+  "Sonnet 4.6|50": {
+   "text": "Amazon Bedrock is a fully managed AWS service that provides access to foundation models (FMs) from leading AI companies like Anthropic, Meta, Mistral, and Amazon itself through a single API. It allows developers to build and scale generative AI applications without managing infrastructure, and includes features like fine-tuning, Retrieval-Augmented Generation (RAG), and AI agents.",
+   "input_tokens": 39,
+   "output_tokens": 86,
+   "latency": 1.721813440322876,
+   "error": null
+  },
+  "Opus 4.6|1": {
+   "text": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose. It takes place primarily in the chloroplasts of plant cells, using carbon dioxide from the air and water from the soil, and releases oxygen as a byproduct. The overall equation is 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂.",
+   "input_tokens": 39,
+   "output_tokens": 112,
+   "latency": 1.9430630207061768,
+   "error": null
+  },
+  "Opus 4.6|2": {
+   "text": "The sky appears blue because molecules in Earth's atmosphere scatter shorter wavelengths of sunlight (blue and violet) more than longer wavelengths (red and orange) in a process called Rayleigh scattering. Although violet light is scattered even more than blue, our eyes are more sensitive to blue light and some violet is absorbed in the upper atmosphere, so we perceive the sky as blue.",
+   "input_tokens": 38,
+   "output_tokens": 86,
+   "latency": 2.1910665035247803,
+   "error": null
+  },
+  "Opus 4.6|3": {
+   "text": "DNA stands for deoxyribonucleic acid. It is a molecule that carries the genetic instructions used in the growth, development, functioning, and reproduction of all known living organisms and many viruses. Essentially, it serves as the biological blueprint that encodes the information needed to build and maintain an organism's cells and pass traits from parents to offspring.",
+   "input_tokens": 43,
+   "output_tokens": 77,
+   "latency": 2.1720528602600098,
+   "error": null
+  },
+  "Opus 4.6|4": {
+   "text": "Newton's second law of motion states that the force acting on an object is equal to its mass multiplied by its acceleration (F = ma). This means that the acceleration of an object is directly proportional to the net force applied and inversely proportional to its mass.",
+   "input_tokens": 41,
+   "output_tokens": 58,
+   "latency": 1.408121109008789,
+   "error": null
+  },
+  "Opus 4.6|5": {
+   "text": "The seasons on Earth are caused by the tilt of Earth's axis (approximately 23.5 degrees) relative to its orbital plane around the Sun. This tilt means that as Earth orbits the Sun, different hemispheres receive varying amounts of direct sunlight throughout the year—when a hemisphere is tilted toward the Sun it experiences summer, and when tilted away it experiences winter.",
+   "input_tokens": 39,
+   "output_tokens": 84,
+   "latency": 1.8261842727661133,
+   "error": null
+  },
+  "Opus 4.6|6": {
+   "text": "The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides, expressed as a² + b² = c².",
+   "input_tokens": 42,
+   "output_tokens": 63,
+   "latency": 1.4615247249603271,
+   "error": null
+  },
+  "Opus 4.6|7": {
+   "text": "The derivative of x² is 2x.",
+   "input_tokens": 40,
+   "output_tokens": 13,
+   "latency": 1.08544921875,
+   "error": null
+  },
+  "Opus 4.6|8": {
+   "text": "A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. The first five prime numbers are 2, 3, 5, 7, and 11.",
+   "input_tokens": 43,
+   "output_tokens": 51,
+   "latency": 1.2315006256103516,
+   "error": null
+  },
+  "Opus 4.6|9": {
+   "text": "The average speed is calculated by dividing distance by time: 120 km ÷ 1.5 hours = 80 km/h.",
+   "input_tokens": 54,
+   "output_tokens": 37,
+   "latency": 1.4053115844726562,
+   "error": null
+  },
+  "Opus 4.6|10": {
+   "text": "The sum of the interior angles of a triangle is 180 degrees.",
+   "input_tokens": 44,
+   "output_tokens": 18,
+   "latency": 1.1570115089416504,
+   "error": null
+  },
+  "Opus 4.6|11": {
+   "text": "George Washington was the first president of the United States, serving two terms from 1789 to 1797.",
+   "input_tokens": 42,
+   "output_tokens": 27,
+   "latency": 1.2990062236785889,
+   "error": null
+  },
+  "Opus 4.6|12": {
+   "text": "World War II ended in 1945, with Germany surrendering in May and Japan surrendering in September after the atomic bombings of Hiroshima and Nagasaki.",
+   "input_tokens": 41,
+   "output_tokens": 40,
+   "latency": 1.4545717239379883,
+   "error": null
+  },
+  "Opus 4.6|13": {
+   "text": "The Renaissance was a cultural, intellectual, and artistic movement that originated in Italy in the 14th century and spread across Europe through the 17th century, marking the transition from the medieval period to the early modern era. It was characterized by a renewed interest in classical Greek and Roman art, philosophy, and learning, along with advances in science, literature, and exploration. Key figures include Leonardo da Vinci, Michelangelo, Galileo, and Shakespeare.",
+   "input_tokens": 37,
+   "output_tokens": 100,
+   "latency": 2.235718011856079,
+   "error": null
+  },
+  "Opus 4.6|14": {
+   "text": "The pyramids of Giza were built by the ancient Egyptians during the Fourth Dynasty of the Old Kingdom, around 2580–2510 BCE. They were constructed as royal tombs for the pharaohs Khufu, Khafre, and Menkaure, using organized labor forces of skilled and unskilled Egyptian workers rather than slaves, as was once commonly believed.",
+   "input_tokens": 42,
+   "output_tokens": 87,
+   "latency": 1.8500590324401855,
+   "error": null
+  },
+  "Opus 4.6|15": {
+   "text": "The French Revolution is widely considered to have begun with the Storming of the Bastille on July 14, 1789, though it was preceded by other key events such as the convening of the Estates-General in May and the Tennis Court Oath in June of that year.",
+   "input_tokens": 43,
+   "output_tokens": 64,
+   "latency": 1.6067798137664795,
+   "error": null
+  },
+  "Opus 4.6|16": {
+   "text": "The capital of Australia is Canberra.",
+   "input_tokens": 39,
+   "output_tokens": 13,
+   "latency": 1.0150625705718994,
+   "error": null
+  },
+  "Opus 4.6|17": {
+   "text": "The Amazon River is the longest river in South America, stretching approximately 6,400 kilometers (about 4,000 miles).",
+   "input_tokens": 41,
+   "output_tokens": 32,
+   "latency": 1.233903169631958,
+   "error": null
+  },
+  "Opus 4.6|18": {
+   "text": "The Pacific Ocean is the largest ocean on Earth, covering approximately 165.25 million square kilometers, which is more than all of the land area on Earth combined.",
+   "input_tokens": 40,
+   "output_tokens": 37,
+   "latency": 1.4277913570404053,
+   "error": null
+  },
+  "Opus 4.6|19": {
+   "text": "Mount Everest is the tallest mountain above sea level, standing at 8,849 meters (29,032 feet).",
+   "input_tokens": 42,
+   "output_tokens": 31,
+   "latency": 1.377126932144165,
+   "error": null
+  },
+  "Opus 4.6|20": {
+   "text": "India is the most populous country in the world, having surpassed China in 2023 with a population of over 1.4 billion people.",
+   "input_tokens": 42,
+   "output_tokens": 36,
+   "latency": 1.3192992210388184,
+   "error": null
+  },
+  "Opus 4.6|21": {
+   "text": "A process is an independent program in execution with its own memory space and system resources, while a thread is a lightweight unit of execution within a process that shares the process's memory and resources with other threads. Multiple threads within the same process can run concurrently and communicate easily through shared memory, whereas processes are isolated from each other and must use inter-process communication mechanisms like pipes or sockets to exchange data. Creating and switching between threads is generally faster and less resource-intensive than doing so with processes.",
+   "input_tokens": 43,
+   "output_tokens": 105,
+   "latency": 2.5640132427215576,
+   "error": null
+  },
+  "Opus 4.6|22": {
+   "text": "HTTP stands for HyperText Transfer Protocol. It is the foundational protocol used for transmitting data on the World Wide Web, enabling communication between web browsers and servers.",
+   "input_tokens": 38,
+   "output_tokens": 38,
+   "latency": 1.3086731433868408,
+   "error": null
+  },
+  "Opus 4.6|23": {
+   "text": "Big O notation is a mathematical notation used in computer science to describe the upper bound of an algorithm's time or space complexity as the input size grows, expressing the worst-case scenario of how resource usage scales. For example, O(n) indicates linear growth, O(n²) indicates quadratic growth, and O(log n) indicates logarithmic growth relative to the input size n. It abstracts away constants and lower-order terms to focus on the dominant factor affecting performance at large scales.",
+   "input_tokens": 38,
+   "output_tokens": 106,
+   "latency": 2.3008229732513428,
+   "error": null
+  },
+  "Opus 4.6|24": {
+   "text": "A REST API (Representational State Transfer Application Programming Interface) is a web service interface that follows REST architectural principles, allowing systems to communicate over HTTP using standard methods like GET, POST, PUT, and DELETE to create, read, update, and delete resources. Resources are identified by URLs, and data is typically exchanged in formats like JSON or XML. REST APIs are stateless, meaning each request contains all the information needed to process it without relying on stored session data on the server.",
+   "input_tokens": 38,
+   "output_tokens": 103,
+   "latency": 2.264552593231201,
+   "error": null
+  },
+  "Opus 4.6|25": {
+   "text": "A database index is a data structure that improves the speed of data retrieval operations on a table by allowing the database to locate rows without scanning the entire table. It works similarly to a book index, providing a quick lookup reference to the actual data based on the values of one or more columns. However, indexes come at the cost of additional storage space and slower write operations, since the index must be updated whenever data is inserted, updated, or deleted.",
+   "input_tokens": 41,
+   "output_tokens": 95,
+   "latency": 2.2799952030181885,
+   "error": null
+  },
+  "Opus 4.6|26": {
+   "text": "Don Quixote was written by Miguel de Cervantes. The novel was published in two parts, in 1605 and 1615.",
+   "input_tokens": 40,
+   "output_tokens": 35,
+   "latency": 1.5388615131378174,
+   "error": null
+  },
+  "Opus 4.6|27": {
+   "text": "The Mona Lisa was painted by Leonardo da Vinci. He is believed to have worked on it from approximately 1503 to 1519, and it now hangs in the Louvre Museum in Paris.",
+   "input_tokens": 40,
+   "output_tokens": 50,
+   "latency": 1.608647346496582,
+   "error": null
+  },
+  "Opus 4.6|28": {
+   "text": "William Shakespeare wrote Romeo and Juliet, believed to have been composed around 1594–1596.",
+   "input_tokens": 40,
+   "output_tokens": 25,
+   "latency": 1.2422668933868408,
+   "error": null
+  },
+  "Opus 4.6|29": {
+   "text": "One Hundred Years of Solitude was written by Colombian author Gabriel García Márquez, first published in 1967.",
+   "input_tokens": 43,
+   "output_tokens": 29,
+   "latency": 1.3328394889831543,
+   "error": null
+  },
+  "Opus 4.6|30": {
+   "text": "A haiku is a traditional form of Japanese poetry consisting of three lines with a syllable pattern of 5-7-5, totaling 17 syllables. It typically focuses on nature, seasons, or fleeting moments and aims to evoke imagery or emotion with minimal words.",
+   "input_tokens": 38,
+   "output_tokens": 62,
+   "latency": 1.7109827995300293,
+   "error": null
+  },
+  "Opus 4.6|31": {
+   "text": "Red blood cells, or erythrocytes, primarily function to transport oxygen from the lungs to tissues throughout the body and carry carbon dioxide back to the lungs for exhalation. They accomplish this through hemoglobin, an iron-containing protein that binds to oxygen and gives red blood cells their characteristic color.",
+   "input_tokens": 41,
+   "output_tokens": 69,
+   "latency": 1.8329036235809326,
+   "error": null
+  },
+  "Opus 4.6|32": {
+   "text": "Bacteria are single-celled living organisms that can reproduce independently, have their own cellular machinery, and are typically much larger than viruses. Viruses are not considered fully living; they are essentially genetic material (DNA or RNA) enclosed in a protein coat and must hijack a host cell's machinery to replicate. Additionally, bacterial infections can often be treated with antibiotics, whereas viral infections cannot, though some can be managed with antiviral medications.",
+   "input_tokens": 44,
+   "output_tokens": 97,
+   "latency": 2.5906260013580322,
+   "error": null
+  },
+  "Opus 4.6|33": {
+   "text": "Sleep is essential for physical health, as it allows the body to repair tissues, strengthen the immune system, and regulate hormones. It also plays a critical role in brain function, including memory consolidation, emotional regulation, and cognitive performance. Chronic sleep deprivation is linked to increased risks of heart disease, obesity, depression, and impaired decision-making.",
+   "input_tokens": 37,
+   "output_tokens": 77,
+   "latency": 2.2073330879211426,
+   "error": null
+  },
+  "Opus 4.6|34": {
+   "text": "Insulin is a hormone produced by the beta cells of the pancreas that regulates blood sugar by facilitating the uptake of glucose from the bloodstream into cells, where it can be used for energy or stored as glycogen and fat. It also promotes protein synthesis and inhibits the breakdown of fat and glycogen. When insulin production or function is impaired, it leads to conditions such as diabetes mellitus.",
+   "input_tokens": 37,
+   "output_tokens": 87,
+   "latency": 2.142549991607666,
+   "error": null
+  },
+  "Opus 4.6|35": {
+   "text": "A balanced diet is one that provides the body with all essential nutrients—including carbohydrates, proteins, fats, vitamins, minerals, and water—in appropriate proportions to support overall health and bodily functions. It typically emphasizes a variety of fruits, vegetables, whole grains, lean proteins, and healthy fats while limiting processed foods, added sugars, and excessive salt.",
+   "input_tokens": 38,
+   "output_tokens": 84,
+   "latency": 1.90156888961792,
+   "error": null
+  },
+  "Opus 4.6|36": {
+   "text": "Inflation is the rate at which the general level of prices for goods and services rises over time, reducing the purchasing power of money. It is typically measured by indices such as the Consumer Price Index (CPI) and can be caused by factors like increased demand, rising production costs, or expansion of the money supply. Central banks often aim to manage inflation through monetary policy, targeting a moderate rate (commonly around 2%) to promote economic stability.",
+   "input_tokens": 36,
+   "output_tokens": 93,
+   "latency": 2.3607470989227295,
+   "error": null
+  },
+  "Opus 4.6|37": {
+   "text": "Revenue is the total amount of money a business earns from selling its goods or services, while profit is the amount remaining after all expenses, costs, and taxes are subtracted from revenue. In short, revenue is the \"top line\" income, and profit is the \"bottom line\" that reflects actual financial gain.",
+   "input_tokens": 41,
+   "output_tokens": 67,
+   "latency": 2.0331339836120605,
+   "error": null
+  },
+  "Opus 4.6|38": {
+   "text": "Supply and demand is a fundamental economic model describing the relationship between the availability of a product (supply) and the desire for that product (demand), which together determine its market price. When demand exceeds supply, prices tend to rise, and when supply exceeds demand, prices tend to fall. The point where supply and demand curves intersect is called the equilibrium price, representing the price at which the quantity supplied equals the quantity demanded.",
+   "input_tokens": 38,
+   "output_tokens": 91,
+   "latency": 2.102440357208252,
+   "error": null
+  },
+  "Opus 4.6|39": {
+   "text": "A stock is a unit of ownership in a company, representing a claim on part of that company's assets and earnings. When you buy a stock (also called a share or equity), you become a partial owner of that company, and the stock's value can rise or fall based on the company's performance and market conditions. Stocks are typically bought and sold on exchanges such as the New York Stock Exchange or NASDAQ.",
+   "input_tokens": 37,
+   "output_tokens": 88,
+   "latency": 1.7397537231445312,
+   "error": null
+  },
+  "Opus 4.6|40": {
+   "text": "GDP (Gross Domestic Product) measures the total monetary value of all finished goods and services produced within a country's borders during a specific time period, typically a year or quarter. It serves as a broad indicator of a nation's overall economic activity and health.",
+   "input_tokens": 37,
+   "output_tokens": 56,
+   "latency": 1.6357300281524658,
+   "error": null
+  },
+  "Opus 4.6|41": {
+   "text": "The plural of 'analysis' is 'analyses.'",
+   "input_tokens": 42,
+   "output_tokens": 15,
+   "latency": 1.3002102375030518,
+   "error": null
+  },
+  "Opus 4.6|42": {
+   "text": "Yes. Since all bloops are razzies and all razzies are lazzies, it follows by transitivity that all bloops are lazzies.",
+   "input_tokens": 58,
+   "output_tokens": 37,
+   "latency": 1.3854048252105713,
+   "error": null
+  },
+  "Opus 4.6|43": {
+   "text": "Three synonyms for \"happy\" are joyful, content, and elated.",
+   "input_tokens": 41,
+   "output_tokens": 21,
+   "latency": 1.061854362487793,
+   "error": null
+  },
+  "Opus 4.6|44": {
+   "text": "\"Buenos días, ¿cómo estás?\"",
+   "input_tokens": 46,
+   "output_tokens": 16,
+   "latency": 1.2142508029937744,
+   "error": null
+  },
+  "Opus 4.6|45": {
+   "text": "The next number in the sequence is 32. Each number is obtained by multiplying the previous number by 2.",
+   "input_tokens": 52,
+   "output_tokens": 27,
+   "latency": 1.3831193447113037,
+   "error": null
+  },
+  "Opus 4.6|46": {
+   "text": "Amazon S3 (Simple Storage Service) is a scalable object storage service provided by Amazon Web Services (AWS) that allows users to store and retrieve any amount of data from anywhere on the web. It is commonly used for backup, archiving, content distribution, and hosting static websites, offering high durability, availability, and security. Data in S3 is organized into buckets and objects, with various storage classes available to optimize cost based on access patterns.",
+   "input_tokens": 38,
+   "output_tokens": 98,
+   "latency": 2.6112053394317627,
+   "error": null
+  },
+  "Opus 4.6|47": {
+   "text": "AWS Lambda is a serverless compute service provided by Amazon Web Services that lets you run code without provisioning or managing servers. You upload your code as a function, and Lambda automatically executes it in response to triggers such as HTTP requests, file uploads, or database changes, scaling automatically and charging only for the compute time consumed.",
+   "input_tokens": 37,
+   "output_tokens": 69,
+   "latency": 1.8333940505981445,
+   "error": null
+  },
+  "Opus 4.6|48": {
+   "text": "An IAM role is an identity in AWS Identity and Access Management that has specific permissions policies determining what it can and cannot do, but instead of being associated with a single person, it is intended to be assumable by anyone or any service that needs it. Roles provide temporary security credentials rather than long-term credentials like passwords or access keys, making them useful for granting cross-account access, allowing AWS services to act on your behalf, or federating external users.",
+   "input_tokens": 39,
+   "output_tokens": 99,
+   "latency": 3.175260543823242,
+   "error": null
+  },
+  "Opus 4.6|49": {
+   "text": "An Availability Zone is a distinct, isolated data center or group of data centers within a cloud provider's region, designed to be independent of other zones with separate power, networking, and connectivity. Availability Zones are used to provide high availability and fault tolerance, so that if one zone experiences an outage, applications can continue running in another zone. AWS, Azure, and other major cloud providers use this concept to help customers build resilient architectures.",
+   "input_tokens": 39,
+   "output_tokens": 95,
+   "latency": 2.4584310054779053,
+   "error": null
+  },
+  "Opus 4.6|50": {
+   "text": "Amazon Bedrock is a fully managed service from AWS that provides access to foundation models (FMs) from leading AI companies such as Anthropic, Meta, Mistral AI, Cohere, AI21 Labs, Stability AI, and Amazon through a single API. It allows developers to build and scale generative AI applications without managing infrastructure, offering capabilities like model customization, fine-tuning, and Retrieval-Augmented Generation (RAG). It is designed to make it easy to experiment with and deploy various large language models and other AI models securely within the AWS ecosystem.",
+   "input_tokens": 39,
+   "output_tokens": 128,
+   "latency": 2.9619698524475098,
+   "error": null
+  }
+ },
+ "judgments": {
+  "Haiku 4.5|1": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference, with added context about oxygen and food chains that, while correct, goes slightly beyond what was asked.",
+   "input_tokens": 278,
+   "output_tokens": 70,
+   "latency": 1.542780876159668,
+   "error": null
+  },
+  "Haiku 4.5|2": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful context about sunsets, though that extra detail slightly reduces conciseness.",
+   "input_tokens": 310,
+   "output_tokens": 68,
+   "latency": 1.5241973400115967,
+   "error": null
+  },
+  "Haiku 4.5|3": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer correctly expands on the reference with accurate additional detail about heredity and genes, covering all key points clearly and concisely.",
+   "input_tokens": 248,
+   "output_tokens": 65,
+   "latency": 1.5318586826324463,
+   "error": null
+  },
+  "Haiku 4.5|4": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and complete, covering all key points from the reference, though it adds slightly redundant elaboration at the end.",
+   "input_tokens": 275,
+   "output_tokens": 64,
+   "latency": 1.4898602962493896,
+   "error": null
+  },
+  "Haiku 4.5|5": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and complete, covering axial tilt, orbital motion, and effects on sunlight angle/duration, though slightly more verbose than necessary.",
+   "input_tokens": 312,
+   "output_tokens": 69,
+   "latency": 1.3432748317718506,
+   "error": null
+  },
+  "Haiku 4.5|6": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is accurate, covers all key points, and adds helpful clarification about which variable represents the hypotenuse without being verbose.",
+   "input_tokens": 271,
+   "output_tokens": 65,
+   "latency": 1.4287524223327637,
+   "error": null
+  },
+  "Haiku 4.5|7": {
+   "correctness": 5,
+   "completeness": 4,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is correct and clear, but omits the explicit 'with respect to x' qualifier present in the reference.",
+   "input_tokens": 197,
+   "output_tokens": 62,
+   "latency": 1.235478162765503,
+   "error": null
+  },
+  "Haiku 4.5|8": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is essentially identical to the reference in content, accurate, complete, and clearly written.",
+   "input_tokens": 268,
+   "output_tokens": 56,
+   "latency": 1.1675214767456055,
+   "error": null
+  },
+  "Haiku 4.5|9": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is correct, complete, clear, and concise, providing the same result as the reference with a helpful explanation of the calculation.",
+   "input_tokens": 250,
+   "output_tokens": 65,
+   "latency": 1.372035264968872,
+   "error": null
+  },
+  "Haiku 4.5|10": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is accurate, complete, clear, and concise, matching the reference answer perfectly.",
+   "input_tokens": 207,
+   "output_tokens": 56,
+   "latency": 1.1865086555480957,
+   "error": null
+  },
+  "Haiku 4.5|11": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is identical to the reference answer, covering all facts clearly and concisely.",
+   "input_tokens": 219,
+   "output_tokens": 55,
+   "latency": 1.1796619892120361,
+   "error": null
+  },
+  "Haiku 4.5|12": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is virtually identical to the reference, with only a minor wording difference ('Japan surrendering' vs 'Japan') that adds slight clarity.",
+   "input_tokens": 216,
+   "output_tokens": 68,
+   "latency": 1.2802667617797852,
+   "error": null
+  },
+  "Haiku 4.5|13": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds valuable context, though it is somewhat more detailed than necessary.",
+   "input_tokens": 306,
+   "output_tokens": 64,
+   "latency": 1.351006269454956,
+   "error": null
+  },
+  "Haiku 4.5|14": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference, adding useful context about the Old Kingdom and dates, though slightly more verbose than necessary.",
+   "input_tokens": 288,
+   "output_tokens": 67,
+   "latency": 1.4680824279785156,
+   "error": null
+  },
+  "Haiku 4.5|15": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer correctly identifies the storming of the Bastille and adds accurate context, though it goes beyond the reference with additional details that, while informative, make it slightly verbose.",
+   "input_tokens": 300,
+   "output_tokens": 74,
+   "latency": 1.495649814605713,
+   "error": null
+  },
+  "Haiku 4.5|16": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The answer is fully correct and clear, but includes additional unrequested details that go beyond the scope of the question.",
+   "input_tokens": 223,
+   "output_tokens": 60,
+   "latency": 1.4599511623382568,
+   "error": null
+  },
+  "Haiku 4.5|17": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The answer is correct and complete, with added length details that are accurate but slightly beyond what was asked.",
+   "input_tokens": 216,
+   "output_tokens": 57,
+   "latency": 1.3759520053863525,
+   "error": null
+  },
+  "Haiku 4.5|18": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The answer is fully correct and clear, with additional accurate details that are helpful but slightly beyond what was asked.",
+   "input_tokens": 218,
+   "output_tokens": 58,
+   "latency": 1.4306046962738037,
+   "error": null
+  },
+  "Haiku 4.5|19": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is accurate, includes the height in both feet and meters matching the reference, and correctly identifies the location (noting Tibet instead of China, which is acceptable as Tibet is part of China).",
+   "input_tokens": 250,
+   "output_tokens": 76,
+   "latency": 1.597325325012207,
+   "error": null
+  },
+  "Haiku 4.5|20": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and complete, adding useful context about population size, though slightly more verbose than necessary.",
+   "input_tokens": 231,
+   "output_tokens": 58,
+   "latency": 1.296590805053711,
+   "error": null
+  },
+  "Haiku 4.5|21": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds valuable context about isolation and synchronization, though slightly more verbose than necessary.",
+   "input_tokens": 293,
+   "output_tokens": 67,
+   "latency": 1.472182273864746,
+   "error": null
+  },
+  "Haiku 4.5|22": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer correctly expands the acronym and accurately describes HTTP's purpose, matching the reference answer with clear, concise language.",
+   "input_tokens": 230,
+   "output_tokens": 63,
+   "latency": 1.534428358078003,
+   "error": null
+  },
+  "Haiku 4.5|23": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful context and examples, though it is slightly more verbose than necessary.",
+   "input_tokens": 274,
+   "output_tokens": 66,
+   "latency": 1.3889691829681396,
+   "error": null
+  },
+  "Haiku 4.5|24": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer covers all key points from the reference and adds accurate, useful details (stateless, JSON/XML, scalability), though it is slightly more verbose than necessary.",
+   "input_tokens": 294,
+   "output_tokens": 72,
+   "latency": 1.663332223892212,
+   "error": null
+  },
+  "Haiku 4.5|25": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference (faster retrieval, extra storage, slower writes), and adds helpful context like the book analogy, though it's slightly more verbose than necessary.",
+   "input_tokens": 264,
+   "output_tokens": 79,
+   "latency": 1.6207349300384521,
+   "error": null
+  },
+  "Haiku 4.5|26": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and is clearly and concisely written.",
+   "input_tokens": 243,
+   "output_tokens": 59,
+   "latency": 1.2861862182617188,
+   "error": null
+  },
+  "Haiku 4.5|27": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer correctly identifies Leonardo da Vinci as the painter and provides accurate additional context about the Renaissance period and creation dates.",
+   "input_tokens": 227,
+   "output_tokens": 62,
+   "latency": 1.2032887935638428,
+   "error": null
+  },
+  "Haiku 4.5|28": {
+   "correctness": 5,
+   "completeness": 4,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate correctly identifies Shakespeare as the author and adds accurate historical context, though it omits the reference's detail about it being a tragedy involving feuding families in Verona.",
+   "input_tokens": 241,
+   "output_tokens": 72,
+   "latency": 1.4303147792816162,
+   "error": null
+  },
+  "Haiku 4.5|29": {
+   "correctness": 5,
+   "completeness": 4,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate correctly identifies the author and adds accurate context about publication date and literary significance, though it omits the Colombian nationality and magical realism genre mentioned in the reference.",
+   "input_tokens": 241,
+   "output_tokens": 70,
+   "latency": 1.3629989624023438,
+   "error": null
+  },
+  "Haiku 4.5|30": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points, and adds useful detail about emotional expression, though it's slightly more verbose than necessary.",
+   "input_tokens": 252,
+   "output_tokens": 64,
+   "latency": 1.2868189811706543,
+   "error": null
+  },
+  "Haiku 4.5|31": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and complete, covering all key points from the reference with clear explanation, though slightly more verbose than necessary.",
+   "input_tokens": 253,
+   "output_tokens": 62,
+   "latency": 1.3434295654296875,
+   "error": null
+  },
+  "Haiku 4.5|32": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful detail about structure and treatment, though slightly more verbose than necessary.",
+   "input_tokens": 300,
+   "output_tokens": 66,
+   "latency": 1.442779302597046,
+   "error": null
+  },
+  "Haiku 4.5|33": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer covers all reference points accurately and adds valid supporting details, though it is more expansive than necessary.",
+   "input_tokens": 287,
+   "output_tokens": 59,
+   "latency": 1.494351863861084,
+   "error": null
+  },
+  "Haiku 4.5|34": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer accurately covers all key points from the reference and adds helpful context about when insulin is released, without being verbose.",
+   "input_tokens": 244,
+   "output_tokens": 61,
+   "latency": 1.3898088932037354,
+   "error": null
+  },
+  "Haiku 4.5|35": {
+   "correctness": 5,
+   "completeness": 4,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and clear, covering key nutrients and food groups, though it adds extra detail about individual variation that goes slightly beyond the reference.",
+   "input_tokens": 277,
+   "output_tokens": 66,
+   "latency": 1.4311354160308838,
+   "error": null
+  },
+  "Haiku 4.5|36": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference while adding useful context about measurement, though slightly more verbose than necessary.",
+   "input_tokens": 260,
+   "output_tokens": 63,
+   "latency": 1.4240384101867676,
+   "error": null
+  },
+  "Haiku 4.5|37": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points, and adds helpful context (top-line/bottom-line), though slightly more verbose than necessary.",
+   "input_tokens": 263,
+   "output_tokens": 67,
+   "latency": 1.4328219890594482,
+   "error": null
+  },
+  "Haiku 4.5|38": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference and more, and is clearly written, though slightly more verbose than necessary.",
+   "input_tokens": 273,
+   "output_tokens": 64,
+   "latency": 1.3240058422088623,
+   "error": null
+  },
+  "Haiku 4.5|39": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful context about dividends, voting rights, and exchanges, though slightly more verbose than necessary.",
+   "input_tokens": 271,
+   "output_tokens": 71,
+   "latency": 1.3645298480987549,
+   "error": null
+  },
+  "Haiku 4.5|40": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and complete, adding useful context about GDP as an economic indicator, though slightly more verbose than necessary.",
+   "input_tokens": 246,
+   "output_tokens": 61,
+   "latency": 1.4481956958770752,
+   "error": null
+  },
+  "Haiku 4.5|41": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is identical in meaning to the reference, correctly stating that the plural of 'analysis' is 'analyses', with no unnecessary content.",
+   "input_tokens": 194,
+   "output_tokens": 67,
+   "latency": 1.4241459369659424,
+   "error": null
+  },
+  "Haiku 4.5|42": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is correct, complete, clear, and concise, matching the reference answer perfectly while providing a clear logical explanation.",
+   "input_tokens": 251,
+   "output_tokens": 62,
+   "latency": 1.3598246574401855,
+   "error": null
+  },
+  "Haiku 4.5|43": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer provides the exact same three synonyms as the reference, is clearly written, and is concise.",
+   "input_tokens": 206,
+   "output_tokens": 59,
+   "latency": 1.3265304565429688,
+   "error": null
+  },
+  "Haiku 4.5|44": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is identical to the reference answer.",
+   "input_tokens": 203,
+   "output_tokens": 46,
+   "latency": 1.115511178970337,
+   "error": null
+  },
+  "Haiku 4.5|45": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The answer is fully correct and clear, though it includes slightly redundant step-by-step calculations that weren't necessary.",
+   "input_tokens": 253,
+   "output_tokens": 61,
+   "latency": 1.4337499141693115,
+   "error": null
+  },
+  "Haiku 4.5|46": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful context about use cases, though it is slightly more verbose than necessary.",
+   "input_tokens": 268,
+   "output_tokens": 67,
+   "latency": 1.4152653217315674,
+   "error": null
+  },
+  "Haiku 4.5|47": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference, adding useful detail about auto-scaling, though slightly more verbose than necessary.",
+   "input_tokens": 253,
+   "output_tokens": 65,
+   "latency": 1.3777899742126465,
+   "error": null
+  },
+  "Haiku 4.5|48": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer accurately covers all key points from the reference (AWS identity, permission policies, assumed by users/services/applications, temporary credentials) and adds useful context, though it's slightly more verbose than necessary.",
+   "input_tokens": 283,
+   "output_tokens": 79,
+   "latency": 1.5387134552001953,
+   "error": null
+  },
+  "Haiku 4.5|49": {
+   "correctness": 5,
+   "completeness": 4,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and well-written, covering the key concepts of physical isolation, redundant infrastructure, and fault tolerance, though it doesn't explicitly mention AWS or that an AZ can consist of one or more discrete data centers.",
+   "input_tokens": 282,
+   "output_tokens": 84,
+   "latency": 1.495680332183838,
+   "error": null
+  },
+  "Haiku 4.5|50": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful detail about providers and features, though it's slightly more verbose than necessary.",
+   "input_tokens": 288,
+   "output_tokens": 68,
+   "latency": 1.3669836521148682,
+   "error": null
+  },
+  "Sonnet 4.6|1": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer covers all key points from the reference (sunlight, water, CO₂, glucose, oxygen) and adds accurate, useful detail like the chemical equation without being padded or repetitive.",
+   "input_tokens": 295,
+   "output_tokens": 78,
+   "latency": 1.5644259452819824,
+   "error": null
+  },
+  "Sonnet 4.6|2": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and complete, covering all key points from the reference while adding relevant bonus context about sunsets, though that addition makes it slightly less concise.",
+   "input_tokens": 286,
+   "output_tokens": 70,
+   "latency": 1.6324505805969238,
+   "error": null
+  },
+  "Sonnet 4.6|3": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference, with slight additional detail that adds value but makes it marginally less concise.",
+   "input_tokens": 264,
+   "output_tokens": 66,
+   "latency": 1.4910361766815186,
+   "error": null
+  },
+  "Sonnet 4.6|4": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and clearly explains the law with the formula and variable definitions.",
+   "input_tokens": 265,
+   "output_tokens": 62,
+   "latency": 1.3600282669067383,
+   "error": null
+  },
+  "Sonnet 4.6|5": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer accurately covers all key points from the reference (axial tilt, orbital motion, hemisphere effects) with clear explanation and no unnecessary content.",
+   "input_tokens": 291,
+   "output_tokens": 67,
+   "latency": 1.6043813228607178,
+   "error": null
+  },
+  "Sonnet 4.6|6": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is accurate, complete, clear, and concise, matching the reference answer while adding helpful clarification about variable labels.",
+   "input_tokens": 267,
+   "output_tokens": 63,
+   "latency": 1.3162636756896973,
+   "error": null
+  },
+  "Sonnet 4.6|7": {
+   "correctness": 5,
+   "completeness": 4,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is correct and clear, but omits the explicit 'with respect to x' qualifier present in the reference.",
+   "input_tokens": 197,
+   "output_tokens": 62,
+   "latency": 1.3372011184692383,
+   "error": null
+  },
+  "Sonnet 4.6|8": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is accurate, complete, clear, and concise, matching the reference answer perfectly.",
+   "input_tokens": 268,
+   "output_tokens": 56,
+   "latency": 1.337090253829956,
+   "error": null
+  },
+  "Sonnet 4.6|9": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is correct, complete, clear, and concise, even showing the calculation used to arrive at the answer.",
+   "input_tokens": 232,
+   "output_tokens": 61,
+   "latency": 1.2306303977966309,
+   "error": null
+  },
+  "Sonnet 4.6|10": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is essentially identical in meaning to the reference, stating the same fact clearly and concisely.",
+   "input_tokens": 208,
+   "output_tokens": 58,
+   "latency": 1.191802978515625,
+   "error": null
+  },
+  "Sonnet 4.6|11": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is identical to the reference answer, covering all facts accurately and concisely.",
+   "input_tokens": 219,
+   "output_tokens": 55,
+   "latency": 1.3322467803955078,
+   "error": null
+  },
+  "Sonnet 4.6|12": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is fully correct, adds precise dates (V-E Day and V-J Day) beyond the reference, and is clear and concise.",
+   "input_tokens": 233,
+   "output_tokens": 68,
+   "latency": 1.3303017616271973,
+   "error": null
+  },
+  "Sonnet 4.6|13": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful context, though it is somewhat more detailed than necessary.",
+   "input_tokens": 299,
+   "output_tokens": 64,
+   "latency": 1.4225990772247314,
+   "error": null
+  },
+  "Sonnet 4.6|14": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference while adding useful context about the workforce, though slightly more verbose than necessary.",
+   "input_tokens": 293,
+   "output_tokens": 64,
+   "latency": 1.3865211009979248,
+   "error": null
+  },
+  "Sonnet 4.6|15": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference while adding relevant context, though it is slightly more verbose than necessary.",
+   "input_tokens": 277,
+   "output_tokens": 63,
+   "latency": 1.3904671669006348,
+   "error": null
+  },
+  "Sonnet 4.6|16": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is identical to the reference answer, perfectly correct, complete, clear, and concise.",
+   "input_tokens": 192,
+   "output_tokens": 57,
+   "latency": 1.1849310398101807,
+   "error": null
+  },
+  "Sonnet 4.6|17": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer correctly identifies the Amazon River and adds accurate supporting detail about its length without being excessive.",
+   "input_tokens": 212,
+   "output_tokens": 56,
+   "latency": 1.1979656219482422,
+   "error": null
+  },
+  "Sonnet 4.6|18": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The answer is fully correct and clear, with added accurate details that are helpful but slightly beyond what was asked.",
+   "input_tokens": 214,
+   "output_tokens": 58,
+   "latency": 1.483670949935913,
+   "error": null
+  },
+  "Sonnet 4.6|19": {
+   "correctness": 5,
+   "completeness": 3,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer correctly identifies Mount Everest and provides a precise height, but omits the location details (Himalayas, Nepal/China border) mentioned in the reference.",
+   "input_tokens": 243,
+   "output_tokens": 73,
+   "latency": 1.4737646579742432,
+   "error": null
+  },
+  "Sonnet 4.6|20": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 4,
+   "conciseness": 3,
+   "reasoning": "The answer is factually correct and complete but slightly verbose by mentioning China as a contender before giving the correct answer.",
+   "input_tokens": 236,
+   "output_tokens": 61,
+   "latency": 1.3556764125823975,
+   "error": null
+  },
+  "Sonnet 4.6|21": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds valuable context about concurrency and IPC, though slightly more verbose than necessary.",
+   "input_tokens": 293,
+   "output_tokens": 68,
+   "latency": 1.2672090530395508,
+   "error": null
+  },
+  "Sonnet 4.6|22": {
+   "correctness": 5,
+   "completeness": 3,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate correctly states what HTTP stands for but omits the reference's explanation of its function as an application protocol for transferring web pages between clients and servers.",
+   "input_tokens": 205,
+   "output_tokens": 68,
+   "latency": 1.4767937660217285,
+   "error": null
+  },
+  "Sonnet 4.6|23": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds helpful examples, though it's slightly more verbose than necessary.",
+   "input_tokens": 279,
+   "output_tokens": 64,
+   "latency": 1.5322668552398682,
+   "error": null
+  },
+  "Sonnet 4.6|24": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all reference points, and adds valuable details (statelessness, JSON/XML) while remaining clear, though slightly more verbose than necessary.",
+   "input_tokens": 287,
+   "output_tokens": 71,
+   "latency": 1.7523164749145508,
+   "error": null
+  },
+  "Sonnet 4.6|25": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points (speed, storage cost, write overhead), and adds helpful context like the book analogy, though it's slightly more verbose than necessary.",
+   "input_tokens": 291,
+   "output_tokens": 74,
+   "latency": 1.478205919265747,
+   "error": null
+  },
+  "Sonnet 4.6|26": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer matches the reference answer almost exactly, covering all key facts clearly and concisely.",
+   "input_tokens": 229,
+   "output_tokens": 56,
+   "latency": 1.3972208499908447,
+   "error": null
+  },
+  "Sonnet 4.6|27": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer correctly identifies Leonardo da Vinci and provides accurate, specific dates consistent with the reference's 'early 16th century' timeframe.",
+   "input_tokens": 217,
+   "output_tokens": 68,
+   "latency": 1.5398998260498047,
+   "error": null
+  },
+  "Sonnet 4.6|28": {
+   "correctness": 5,
+   "completeness": 3,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate correctly identifies Shakespeare as the author and adds useful dating information, but omits the reference's context about it being a tragedy involving feuding families in Verona.",
+   "input_tokens": 223,
+   "output_tokens": 71,
+   "latency": 1.4836390018463135,
+   "error": null
+  },
+  "Sonnet 4.6|29": {
+   "correctness": 5,
+   "completeness": 3,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "Correctly identifies the author but omits the Colombian nationality and magical realism genre mentioned in the reference, though adds the publication year.",
+   "input_tokens": 224,
+   "output_tokens": 63,
+   "latency": 1.5435330867767334,
+   "error": null
+  },
+  "Sonnet 4.6|30": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference while adding relevant detail about sensory experience and imagery, though slightly more verbose than necessary.",
+   "input_tokens": 254,
+   "output_tokens": 67,
+   "latency": 1.3688850402832031,
+   "error": null
+  },
+  "Sonnet 4.6|31": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and complete, covering all key points from the reference with added detail about hemoglobin, though slightly more verbose than necessary.",
+   "input_tokens": 252,
+   "output_tokens": 67,
+   "latency": 1.2407479286193848,
+   "error": null
+  },
+  "Sonnet 4.6|32": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer covers all key points from the reference and adds accurate, relevant details without being verbose.",
+   "input_tokens": 286,
+   "output_tokens": 56,
+   "latency": 1.3163409233093262,
+   "error": null
+  },
+  "Sonnet 4.6|33": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer accurately covers all reference points and adds valid supporting details, though it is slightly more verbose than necessary.",
+   "input_tokens": 257,
+   "output_tokens": 59,
+   "latency": 1.4273242950439453,
+   "error": null
+  },
+  "Sonnet 4.6|34": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer accurately covers all key points from the reference and adds correct, relevant details about energy/storage and fat/protein metabolism without being verbose.",
+   "input_tokens": 241,
+   "output_tokens": 66,
+   "latency": 1.5411696434020996,
+   "error": null
+  },
+  "Sonnet 4.6|35": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful practical detail, though it is slightly more verbose than necessary.",
+   "input_tokens": 275,
+   "output_tokens": 65,
+   "latency": 1.4137728214263916,
+   "error": null
+  },
+  "Sonnet 4.6|36": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference while adding useful but slightly verbose additional context about measurement.",
+   "input_tokens": 245,
+   "output_tokens": 60,
+   "latency": 1.454071044921875,
+   "error": null
+  },
+  "Sonnet 4.6|37": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer accurately covers all key points from the reference and adds helpful context (top line/bottom line) without being verbose.",
+   "input_tokens": 257,
+   "output_tokens": 62,
+   "latency": 1.5043346881866455,
+   "error": null
+  },
+  "Sonnet 4.6|38": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful detail about equilibrium and price dynamics, though slightly more verbose than necessary.",
+   "input_tokens": 262,
+   "output_tokens": 68,
+   "latency": 1.349289894104004,
+   "error": null
+  },
+  "Sonnet 4.6|39": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference while adding useful context about dividends and growth, though slightly more verbose.",
+   "input_tokens": 244,
+   "output_tokens": 64,
+   "latency": 1.3666398525238037,
+   "error": null
+  },
+  "Sonnet 4.6|40": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and complete, covering all key points from the reference while adding useful context about time periods and economic indicators, though slightly more verbose than necessary.",
+   "input_tokens": 244,
+   "output_tokens": 69,
+   "latency": 1.5260906219482422,
+   "error": null
+  },
+  "Sonnet 4.6|41": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is factually correct, complete, clear, and concise, matching the reference answer exactly in content.",
+   "input_tokens": 192,
+   "output_tokens": 60,
+   "latency": 1.1667935848236084,
+   "error": null
+  },
+  "Sonnet 4.6|42": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is correct, complete, clear, and concise, correctly applying transitive logic even without explicitly naming it.",
+   "input_tokens": 242,
+   "output_tokens": 61,
+   "latency": 1.2888305187225342,
+   "error": null
+  },
+  "Sonnet 4.6|43": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 4,
+   "conciseness": 5,
+   "reasoning": "All three synonyms are valid (two match the reference exactly), but the answer lacks a brief introductory phrase that would improve clarity.",
+   "input_tokens": 199,
+   "output_tokens": 64,
+   "latency": 1.5224342346191406,
+   "error": null
+  },
+  "Sonnet 4.6|44": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is identical to the reference answer.",
+   "input_tokens": 203,
+   "output_tokens": 46,
+   "latency": 1.1345539093017578,
+   "error": null
+  },
+  "Sonnet 4.6|45": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is correct and complete, though slightly redundant by saying 'doubled (multiplied by 2)' which means the same thing twice.",
+   "input_tokens": 223,
+   "output_tokens": 68,
+   "latency": 1.2685317993164062,
+   "error": null
+  },
+  "Sonnet 4.6|46": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful context about use cases, though it's slightly more verbose than necessary.",
+   "input_tokens": 266,
+   "output_tokens": 67,
+   "latency": 1.4070794582366943,
+   "error": null
+  },
+  "Sonnet 4.6|47": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference, with slight additional detail about use cases that adds minor padding but remains useful.",
+   "input_tokens": 262,
+   "output_tokens": 65,
+   "latency": 1.6322288513183594,
+   "error": null
+  },
+  "Sonnet 4.6|48": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds helpful context, though the EC2/S3 example adds slight verbosity.",
+   "input_tokens": 288,
+   "output_tokens": 69,
+   "latency": 1.5313982963562012,
+   "error": null
+  },
+  "Sonnet 4.6|49": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer accurately covers all key points from the reference and adds useful context about low-latency links and deployment benefits, though slightly more verbose than necessary.",
+   "input_tokens": 268,
+   "output_tokens": 68,
+   "latency": 1.5979726314544678,
+   "error": null
+  },
+  "Sonnet 4.6|50": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful detail about specific providers and features, though it's slightly more verbose than necessary.",
+   "input_tokens": 285,
+   "output_tokens": 69,
+   "latency": 1.3815529346466064,
+   "error": null
+  },
+  "Opus 4.6|1": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful detail like the chemical equation and location of photosynthesis, though slightly more verbose than necessary.",
+   "input_tokens": 312,
+   "output_tokens": 73,
+   "latency": 1.5426092147827148,
+   "error": null
+  },
+  "Opus 4.6|2": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and more complete than the reference, adding correct details about violet light and eye sensitivity, though slightly longer than necessary.",
+   "input_tokens": 292,
+   "output_tokens": 64,
+   "latency": 1.5497636795043945,
+   "error": null
+  },
+  "Opus 4.6|3": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference while adding helpful context, though it is slightly more verbose than necessary.",
+   "input_tokens": 280,
+   "output_tokens": 63,
+   "latency": 1.3410966396331787,
+   "error": null
+  },
+  "Opus 4.6|4": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer accurately covers all key points from the reference, including F=ma, direct proportionality to force, and inverse proportionality to mass, with clear and concise language.",
+   "input_tokens": 263,
+   "output_tokens": 75,
+   "latency": 1.4385044574737549,
+   "error": null
+  },
+  "Opus 4.6|5": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer accurately covers all key points from the reference—axial tilt, orbital motion, and varying sunlight—while adding helpful clarification about summer/winter hemispheres without unnecessary padding.",
+   "input_tokens": 294,
+   "output_tokens": 77,
+   "latency": 1.5299787521362305,
+   "error": null
+  },
+  "Opus 4.6|6": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and complete, with slightly more detail than the reference but no unnecessary repetition.",
+   "input_tokens": 273,
+   "output_tokens": 57,
+   "latency": 1.2357513904571533,
+   "error": null
+  },
+  "Opus 4.6|7": {
+   "correctness": 5,
+   "completeness": 4,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is correct and clear, but omits the explicit 'with respect to x' qualifier present in the reference.",
+   "input_tokens": 197,
+   "output_tokens": 62,
+   "latency": 1.2670259475708008,
+   "error": null
+  },
+  "Opus 4.6|8": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is essentially identical to the reference in content, accurate, complete, and clearly written.",
+   "input_tokens": 268,
+   "output_tokens": 56,
+   "latency": 1.201125144958496,
+   "error": null
+  },
+  "Opus 4.6|9": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is correct, complete, clear, and concise, providing the same result as the reference while also showing the calculation method.",
+   "input_tokens": 232,
+   "output_tokens": 64,
+   "latency": 1.1993052959442139,
+   "error": null
+  },
+  "Opus 4.6|10": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is factually correct, covers the key point, is clearly written, and is concise.",
+   "input_tokens": 207,
+   "output_tokens": 58,
+   "latency": 1.1581878662109375,
+   "error": null
+  },
+  "Opus 4.6|11": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer matches the reference exactly and adds accurate detail about two terms without being verbose.",
+   "input_tokens": 221,
+   "output_tokens": 54,
+   "latency": 1.1681973934173584,
+   "error": null
+  },
+  "Opus 4.6|12": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is fully correct, covers all key points, and adds relevant context about the atomic bombings without being excessive.",
+   "input_tokens": 231,
+   "output_tokens": 61,
+   "latency": 1.34739351272583,
+   "error": null
+  },
+  "Opus 4.6|13": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful context, though it is somewhat more detailed than necessary.",
+   "input_tokens": 299,
+   "output_tokens": 64,
+   "latency": 1.2393999099731445,
+   "error": null
+  },
+  "Opus 4.6|14": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful context about labor forces, though slightly more verbose than necessary.",
+   "input_tokens": 300,
+   "output_tokens": 65,
+   "latency": 1.3593873977661133,
+   "error": null
+  },
+  "Opus 4.6|15": {
+   "correctness": 5,
+   "completeness": 4,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer correctly identifies the Storming of the Bastille and adds accurate context, though it omits the financial crisis and social inequality mentioned in the reference.",
+   "input_tokens": 269,
+   "output_tokens": 70,
+   "latency": 1.3872625827789307,
+   "error": null
+  },
+  "Opus 4.6|16": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is identical to the reference answer, perfectly correct, complete, clear, and concise.",
+   "input_tokens": 192,
+   "output_tokens": 57,
+   "latency": 1.3316364288330078,
+   "error": null
+  },
+  "Opus 4.6|17": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The answer is correct and complete, with added length details that are accurate but slightly beyond what was asked.",
+   "input_tokens": 214,
+   "output_tokens": 57,
+   "latency": 1.33280348777771,
+   "error": null
+  },
+  "Opus 4.6|18": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The answer is correct and complete, but includes additional details beyond what was asked that make it slightly less concise.",
+   "input_tokens": 217,
+   "output_tokens": 59,
+   "latency": 1.323352336883545,
+   "error": null
+  },
+  "Opus 4.6|19": {
+   "correctness": 5,
+   "completeness": 4,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is correct and clear, providing the height in both meters and feet, but omits the geographic location detail (Nepal/China border in the Himalayas) mentioned in the reference.",
+   "input_tokens": 239,
+   "output_tokens": 77,
+   "latency": 1.5263769626617432,
+   "error": null
+  },
+  "Opus 4.6|20": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer matches the reference exactly and adds accurate population detail without being verbose.",
+   "input_tokens": 228,
+   "output_tokens": 52,
+   "latency": 1.320234775543213,
+   "error": null
+  },
+  "Opus 4.6|21": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds valuable correct details about IPC and thread efficiency, though it's more verbose than necessary.",
+   "input_tokens": 311,
+   "output_tokens": 70,
+   "latency": 1.532160758972168,
+   "error": null
+  },
+  "Opus 4.6|22": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer correctly expands the acronym and accurately describes HTTP's purpose, covering all key points from the reference answer clearly and concisely.",
+   "input_tokens": 230,
+   "output_tokens": 66,
+   "latency": 1.4691779613494873,
+   "error": null
+  },
+  "Opus 4.6|23": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds helpful examples, though it is more verbose than necessary.",
+   "input_tokens": 297,
+   "output_tokens": 63,
+   "latency": 1.4525296688079834,
+   "error": null
+  },
+  "Opus 4.6|24": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all reference points, and adds valuable details (statelessness, JSON/XML, CRUD mapping) with only minor verbosity.",
+   "input_tokens": 305,
+   "output_tokens": 70,
+   "latency": 1.5451409816741943,
+   "error": null
+  },
+  "Opus 4.6|25": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference, with helpful elaboration, though slightly more verbose than necessary.",
+   "input_tokens": 292,
+   "output_tokens": 62,
+   "latency": 1.300044059753418,
+   "error": null
+  },
+  "Opus 4.6|26": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer contains all the same information as the reference answer, just split into two sentences instead of one.",
+   "input_tokens": 233,
+   "output_tokens": 58,
+   "latency": 1.1627540588378906,
+   "error": null
+  },
+  "Opus 4.6|27": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer correctly identifies Leonardo da Vinci, provides accurate dates consistent with the reference, and adds relevant context without being verbose.",
+   "input_tokens": 241,
+   "output_tokens": 63,
+   "latency": 1.4636754989624023,
+   "error": null
+  },
+  "Opus 4.6|28": {
+   "correctness": 5,
+   "completeness": 3,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate correctly identifies Shakespeare as the author and adds a useful date, but omits the reference's details about it being a tragedy involving feuding families in Verona.",
+   "input_tokens": 223,
+   "output_tokens": 71,
+   "latency": 1.3725380897521973,
+   "error": null
+  },
+  "Opus 4.6|29": {
+   "correctness": 5,
+   "completeness": 4,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer correctly identifies the author and his nationality, adds useful publication date info, but omits the magical realism genre mention from the reference.",
+   "input_tokens": 229,
+   "output_tokens": 66,
+   "latency": 1.4549508094787598,
+   "error": null
+  },
+  "Opus 4.6|30": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference while adding useful context, though it's slightly more verbose than necessary.",
+   "input_tokens": 259,
+   "output_tokens": 63,
+   "latency": 1.346512794494629,
+   "error": null
+  },
+  "Opus 4.6|31": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference, with added detail about hemoglobin that is correct but slightly more verbose than necessary.",
+   "input_tokens": 269,
+   "output_tokens": 68,
+   "latency": 1.2377536296844482,
+   "error": null
+  },
+  "Opus 4.6|32": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful detail about antivirals, though it is slightly more verbose than necessary.",
+   "input_tokens": 310,
+   "output_tokens": 68,
+   "latency": 1.5000972747802734,
+   "error": null
+  },
+  "Opus 4.6|33": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer covers all reference points accurately and adds valid supporting details, though it is slightly more verbose than necessary.",
+   "input_tokens": 266,
+   "output_tokens": 59,
+   "latency": 1.4471266269683838,
+   "error": null
+  },
+  "Opus 4.6|34": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful detail, though it is somewhat longer than necessary.",
+   "input_tokens": 281,
+   "output_tokens": 63,
+   "latency": 1.4232752323150635,
+   "error": null
+  },
+  "Opus 4.6|35": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer fully covers all reference points and adds accurate, helpful detail, though it is somewhat more expansive than necessary.",
+   "input_tokens": 284,
+   "output_tokens": 61,
+   "latency": 1.391672134399414,
+   "error": null
+  },
+  "Opus 4.6|36": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful context, though it is more detailed than necessary for a basic definition.",
+   "input_tokens": 278,
+   "output_tokens": 67,
+   "latency": 1.4243524074554443,
+   "error": null
+  },
+  "Opus 4.6|37": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points, and adds helpful context (top line/bottom line), though slightly more verbose than necessary.",
+   "input_tokens": 266,
+   "output_tokens": 65,
+   "latency": 1.4370152950286865,
+   "error": null
+  },
+  "Opus 4.6|38": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful detail about equilibrium, though it is somewhat longer than necessary.",
+   "input_tokens": 289,
+   "output_tokens": 66,
+   "latency": 1.4289250373840332,
+   "error": null
+  },
+  "Opus 4.6|39": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful context about exchanges, though slightly more verbose than necessary.",
+   "input_tokens": 280,
+   "output_tokens": 64,
+   "latency": 1.4384973049163818,
+   "error": null
+  },
+  "Opus 4.6|40": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and complete, covering all key points from the reference while adding useful context, though slightly more verbose than necessary.",
+   "input_tokens": 246,
+   "output_tokens": 63,
+   "latency": 1.1852247714996338,
+   "error": null
+  },
+  "Opus 4.6|41": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is factually correct, complete, clear, and concise, matching the reference answer perfectly.",
+   "input_tokens": 194,
+   "output_tokens": 58,
+   "latency": 1.2401955127716064,
+   "error": null
+  },
+  "Opus 4.6|42": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is correct, complete, clear, and concise, matching the reference answer perfectly while explaining the transitivity reasoning.",
+   "input_tokens": 242,
+   "output_tokens": 62,
+   "latency": 1.2237756252288818,
+   "error": null
+  },
+  "Opus 4.6|43": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate provides three valid synonyms for 'happy' (joyful, content, elated), two of which match the reference (joyful, content), and elated is an equally valid synonym replacing cheerful.",
+   "input_tokens": 207,
+   "output_tokens": 83,
+   "latency": 1.4236927032470703,
+   "error": null
+  },
+  "Opus 4.6|44": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer is identical to the reference answer, just wrapped in quotation marks.",
+   "input_tokens": 204,
+   "output_tokens": 53,
+   "latency": 1.2694625854492188,
+   "error": null
+  },
+  "Opus 4.6|45": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 5,
+   "reasoning": "The candidate answer correctly identifies 32 as the next number and accurately explains the doubling pattern, matching the reference answer fully.",
+   "input_tokens": 225,
+   "output_tokens": 62,
+   "latency": 1.343230962753296,
+   "error": null
+  },
+  "Opus 4.6|46": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference, and adds useful context, though it is somewhat more verbose than necessary.",
+   "input_tokens": 294,
+   "output_tokens": 64,
+   "latency": 1.3349013328552246,
+   "error": null
+  },
+  "Opus 4.6|47": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference while adding helpful examples of triggers, making it slightly more verbose but still clear and well-structured.",
+   "input_tokens": 268,
+   "output_tokens": 69,
+   "latency": 1.433656930923462,
+   "error": null
+  },
+  "Opus 4.6|48": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate, covers all key points from the reference (AWS identity, permission policies, assumable by users/apps/services, temporary credentials), and adds useful context, though it is somewhat more verbose than necessary.",
+   "input_tokens": 294,
+   "output_tokens": 82,
+   "latency": 1.441758394241333,
+   "error": null
+  },
+  "Opus 4.6|49": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference, but adds extra context about high availability and other cloud providers that, while useful, goes beyond the reference scope.",
+   "input_tokens": 295,
+   "output_tokens": 72,
+   "latency": 1.5292744636535645,
+   "error": null
+  },
+  "Opus 4.6|50": {
+   "correctness": 5,
+   "completeness": 5,
+   "clarity": 5,
+   "conciseness": 4,
+   "reasoning": "The candidate answer is accurate and covers all key points from the reference while adding useful detail about specific providers and capabilities, though it is somewhat more verbose than necessary.",
+   "input_tokens": 327,
+   "output_tokens": 68,
+   "latency": 1.4331467151641846,
+   "error": null
+  }
+ }
+}

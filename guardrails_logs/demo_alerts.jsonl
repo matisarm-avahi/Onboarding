@@ -1,0 +1,12 @@
+{"type": "prompt_injection", "user": "user-demo", "severity": "high", "message": "demo event at t=10s", "details": {}, "timestamp": "2026-10-26T04:34:30.997+00:00"}
+{"type": "repeat_offender", "user": "user-demo", "severity": "critical", "message": "3 violations in 300s", "details": {"violations": 3}, "timestamp": "2026-10-26T04:34:31.004+00:00"}
+{"type": "toxic_output", "user": "user-demo", "severity": "high", "message": "demo event at t=200s", "details": {}, "timestamp": "2026-10-26T04:34:31.008+00:00"}
+{"type": "repeat_offender", "user": "user-demo", "severity": "critical", "message": "5 violations in 300s", "details": {"violations": 5}, "timestamp": "2026-10-26T04:34:31.009+00:00"}
+{"type": "prompt_injection", "user": "user-demo", "severity": "high", "message": "demo event at t=10s", "details": {}, "timestamp": "2026-10-26T21:41:05.254+00:00"}
+{"type": "repeat_offender", "user": "user-demo", "severity": "critical", "message": "3 violations in 300s", "details": {"violations": 3}, "timestamp": "2026-10-26T21:41:05.255+00:00"}
+{"type": "toxic_output", "user": "user-demo", "severity": "high", "message": "demo event at t=200s", "details": {}, "timestamp": "2026-10-26T21:41:05.256+00:00"}
+{"type": "repeat_offender", "user": "user-demo", "severity": "critical", "message": "5 violations in 300s", "details": {"violations": 5}, "timestamp": "2026-10-26T21:41:05.257+00:00"}
+{"type": "prompt_injection", "user": "user-demo", "severity": "high", "message": "demo event at t=10s", "details": {}, "timestamp": "2026-10-26T21:41:55.380+00:00"}
+{"type": "repeat_offender", "user": "user-demo", "severity": "critical", "message": "3 violations in 300s", "details": {"violations": 3}, "timestamp": "2026-10-26T21:41:55.380+00:00"}
+{"type": "toxic_output", "user": "user-demo", "severity": "high", "message": "demo event at t=200s", "details": {}, "timestamp": "2026-10-26T21:41:55.382+00:00"}
+{"type": "repeat_offender", "user": "user-demo", "severity": "critical", "message": "5 violations in 300s", "details": {"violations": 5}, "timestamp": "2026-10-26T21:41:55.383+00:00"}

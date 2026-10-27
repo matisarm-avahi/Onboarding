@@ -1,0 +1,5 @@
+An embedding is a vector of numbers that represents the meaning of a piece of text. Texts with similar meaning end up close together in the vector space, even when they share no words.
+
+Closeness is usually measured with cosine similarity, which compares the angle between two vectors. If vectors are normalized to length one, cosine similarity is just a dot product.
+
+Amazon Titan Text Embeddings V2 accepts up to 8,192 tokens of input and can return vectors with 256, 512 or 1024 dimensions. Smaller vectors are cheaper to store and search, at a small cost in accuracy.
