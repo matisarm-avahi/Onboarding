@@ -1,0 +1,15 @@
+task,config,hidden_pass,hidden_passed,hidden_total,own_tests_pass,calls,input_tokens,output_tokens,cost_usd,wall_s,revisions,steps,review_findings,failed,error
+slugify,baseline,True,5,5,True,1,293,1658,0.0257,19.3,0,solo,0,False,
+slugify,fixed,True,5,5,True,5,3946,3922,0.0707,47.3,0,requirements+architect+engineer+tester+reviewer,1,False,
+slugify,routed,True,5,5,True,7,13594,11456,0.1756,146.7,2,engineer+tester,0,False,
+lru_cache,baseline,True,4,4,True,1,309,3399,0.0519,35.6,0,solo,0,False,
+lru_cache,fixed,True,4,4,True,6,5595,9355,0.1571,94.9,0,requirements+architect+engineer+tester+reviewer,1,False,
+lru_cache,routed,False,0,0,False,5,3914,9611,0.0623,52.2,0,requirements+engineer+tester+reviewer,0,True,"ValueError: tester: invalid structured output after retries: 1 validation error for CodeChange
+  Invalid JSON: expected value at line 1 column 1 [type=json_invalid, input_value='```json\n{\n  ""rationale...    assert cache.get(1)', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/json_invalid"
+parse_duration,baseline,True,7,7,True,2,2977,4553,0.0772,49.1,1,solo,0,False,
+parse_duration,fixed,True,7,7,True,5,5272,5406,0.0969,57.7,0,requirements+architect+engineer+tester+reviewer,2,False,
+parse_duration,routed,False,0,0,False,4,3239,5985,0.0469,430.0,0,requirements+engineer+tester+reviewer,0,True,ClientError: An error occurred (ExpiredTokenException) when calling the Converse operation: The security token included in the request is expired
+shop_coupon,baseline,False,0,0,False,0,0,0,0.0,0.3,0,solo,0,True,ClientError: An error occurred (ExpiredTokenException) when calling the Converse operation: The security token included in the request is expired
+shop_coupon,fixed,False,0,0,False,0,0,0,0.0,0.2,0,requirements+architect+engineer+tester+reviewer,0,True,ClientError: An error occurred (ExpiredTokenException) when calling the Converse operation: The security token included in the request is expired
+shop_coupon,routed,False,0,0,False,0,0,0,0.0,0.2,0,,0,True,ClientError: An error occurred (ExpiredTokenException) when calling the Converse operation: The security token included in the request is expired
